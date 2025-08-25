@@ -1,5 +1,6 @@
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
+
 ServerEvents.recipes(event => {
     event.remove(
         [
@@ -9,9 +10,11 @@ ServerEvents.recipes(event => {
             'modern_industrialization:quarry/titanium'
         ]
     ) 
+})
 
+ServerEvents.generateData('after_mods' ,event => {
     let addQuarry = (id, eu, duration, inputItem, inputChance, outputs) => {
-        event.custom(
+        let json = (
             {
                 type: 'modern_industrialization:quarry',
                 eu: eu,
@@ -23,7 +26,9 @@ ServerEvents.recipes(event => {
                 },
                 item_outputs: outputs
             }
-        ).id(`atm:quarry/electric/${id}`)
+        )
+        
+        event.json(`atm:recipe/quarry/${id}`, json)
     }
 
     addQuarry('test', 2, 100, 'minecraft:dirt', 0.01, 

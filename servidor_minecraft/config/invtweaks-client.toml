@@ -283,20 +283,6 @@
 	#instance of class or exactly of that class respectively
 	#Specifying an item's registry name as a clause checks for that item
 	#Prepending an exclamation mark at the start of a clause inverts it
-
-	#Custom settings per GUI
-    #x = x-position of external sort button relative to GUI top left
-    #y = same as above except for the y-position
-    #Omit x and y to leave position unchanged
-    #sortRange = slots to sort
-    #E.g. sortRange = "5,0-2" sorts slots 5,0,1,2 in that order
-    #sortRange = "" disables sorting for that container
-    #Out-of-bound slots are ignored
-    #Omit sortRange to leave as default
-    [[sorting.containerOverrides]]
-        containerClass = "net.pedroksl.advanced_ae.client.gui.*"
-        sortRange = ""
-
 	[[sorting.category]]
 		name = "sword"
 		spec = ["/instanceof:net.minecraft.world.item.SwordItem"]
@@ -429,16 +415,13 @@
 		name = "blocks"
 		spec = ["/instanceof:net.minecraft.world.item.BlockItem"]
 
-	
-
 #Tweaks
 [tweaks]
 	#0 = disable buttons (i.e. keybind only)
 	#1 = buttons for player sorting only
 	#2 = buttons for external sorting only
 	#3 = all buttons enabled (default)
-	# Default: 3
-	# Range: 0 ~ 3
+	#Range: 0 ~ 3
 	enableButtons = 1
 	#Enable auto-refill
 	autoRefill = true
@@ -446,10 +429,7 @@
 	#1 = player sorting only
 	#2 = external sorting only
 	#3 = all sorting enabled (default)
-	# Default: 3
-	# Range: 0 ~ 3
+	#Range: 0 ~ 3
 	enableSort = 3
 	#Enable a quick view of how many items that you're currently holding exists in your inventory by displaying it next your hotbar.
 	quickView = true
-	#Enable debug will log the name of the screens being opened
-	enableDebug = false

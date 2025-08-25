@@ -4,7 +4,10 @@
 	filename: "welcome"
 	group: ""
 	icon: {
-		id: "ftbquests:book"
+		components: {
+			"ftbquests:icon": "allthetweaks:item/atm_star"
+		}
+		id: "ftbquests:custom_icon"
 	}
 	id: "5B00676D79306EA2"
 	images: [
@@ -22,7 +25,7 @@
 			height: 1.0d
 			hover: ["Join the Discord!"]
 			image: "ftbchunks:textures/waypoint_default.png"
-			rotation: 180.0d
+			rotation: 0.0d
 			width: 1.0d
 			x: 0.0d
 			y: 1.5d
@@ -46,16 +49,18 @@
 			shape: "pentagon"
 			size: 3.0d
 			tasks: [{
-				dimension: "minecraft:overworld"
-				id: "33218EFDD498E9DB"
-				type: "dimension"
+				id: "5A1784C5676CDC62"
+				type: "checkmark"
 			}]
 			x: 0.0d
 			y: -0.49642857142856656d
 		}
 		{
 			icon: {
-				id: "ftbquests:book"
+				components: {
+					"ftbquests:icon": "ftbquests:item/book"
+				}
+				id: "ftbquests:custom_icon"
 			}
 			id: "3708A4780ACEB34E"
 			min_width: 250
@@ -139,21 +144,27 @@
 			y: -0.5d
 		}
 		{
-			id: "49EDAA2F57D3BF1D"
-			invisible: true
-			optional: true
-			tasks: [
-				{
-					id: "2C816285392535F0"
-					type: "checkmark"
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/map"
 				}
-				{
-					id: "201F519941A2C7F4"
-					type: "checkmark"
-				}
-			]
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.1d
+			id: "70D4EA125CF11137"
+			rewards: [{
+				id: "6935874719DCABBC"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			size: 1.8d
+			tasks: [{
+				id: "083129895DA3B3B4"
+				type: "checkmark"
+			}]
 			x: 0.0d
-			y: 4.5d
+			y: 3.5d
 		}
 	]
 }

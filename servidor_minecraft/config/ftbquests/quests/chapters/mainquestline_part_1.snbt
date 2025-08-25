@@ -15,7 +15,7 @@
 			rotation: 0.0d
 			width: 13.671d
 			x: 7.5d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
 			height: 0.01d
@@ -30,24 +30,32 @@
 			image: "atm:textures/questpics/gettingstarted/sniffer3.png"
 			rotation: 0.0d
 			width: 4.0d
+			x: -5.0d
+			y: 8.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/torchflower"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 10.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/torchflower"
+			rotation: 0.0d
+			width: 1.0d
 			x: -5.5d
-			y: 8.25d
+			y: 10.25d
 		}
 		{
-			height: 1.0d
-			image: "minecraft:block/torchflower"
+			height: 0.75d
+			image: "ironfurnaces:block/iron_furnace_front_on_smoke"
 			rotation: 0.0d
-			width: 1.0d
-			x: -7.0d
-			y: 9.75d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/torchflower"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
-			y: 9.75d
+			width: 0.75d
+			x: 5.5d
+			y: 1.0d
 		}
 		{
 			height: 0.5d
@@ -94,32 +102,8 @@
 			image: "minecraft:block/torchflower"
 			rotation: 0.0d
 			width: 1.0d
-			x: -4.0d
-			y: 10.25d
-		}
-		{
-			height: 1.0d
-			image: "ironfurnaces:block/iron_furnace_front_on"
-			rotation: 0.0d
-			width: 1.0d
-			x: 1.0d
-			y: 6.0d
-		}
-		{
-			height: 1.0d
-			image: "generatorgalore:block/copper_generator_front"
-			rotation: 0.0d
-			width: 1.0d
-			x: 3.0d
-			y: 6.0d
-		}
-		{
-			height: 0.8d
-			image: "minecraft:block/furnace_front_on"
-			rotation: 0.0d
-			width: 0.8d
-			x: 5.5d
-			y: 1.0d
+			x: -3.5d
+			y: 10.75d
 		}
 	]
 	order_index: 0
@@ -127,9 +111,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			icon: {
-				id: "minecraft:oak_log"
-			}
 			id: "5CF320E9C4C1B1E1"
 			rewards: [
 				{
@@ -158,7 +139,7 @@
 				item: { components: { "ftbfiltersystem:filter": "item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -5.0d
 			y: 3.0d
 		}
 		{
@@ -182,6 +163,11 @@
 			id: "7975C7145572C438"
 			rewards: [
 				{
+					id: "1551FD138B9B3813"
+					type: "xp"
+					xp: 10
+				}
+				{
 					count: 2
 					id: "4CF2F5980ADD8DBC"
 					item: {
@@ -195,11 +181,6 @@
 					id: "09CAD4B958A24BEB"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "01B466208AD081D8"
-					type: "xp"
-					xp: 10
 				}
 			]
 			shape: "square"
@@ -231,9 +212,6 @@
 		}
 		{
 			dependencies: ["7975C7145572C438"]
-			icon: {
-				id: "minecraft:furnace"
-			}
 			id: "7D38BC3DB3406F51"
 			rewards: [{
 				id: "36A9FD7873103E63"
@@ -243,12 +221,12 @@
 			tasks: [
 				{
 					count: 16L
-					id: "173044E1C1134A80"
-					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:cobblestones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					id: "10DFD79E9CE6DB61"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(c:cobblestones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 				{
-					id: "39AD121BCB73453D"
+					id: "4701BCBA5EA024F2"
 					item: { count: 1, id: "minecraft:furnace" }
 					type: "item"
 				}
@@ -277,15 +255,23 @@
 			id: "051E0C85E7B71CE0"
 			rewards: [
 				{
+					id: "3A97D5B2AE8AEF50"
+					type: "xp"
+					xp: 25
+				}
+				{
+					id: "6FFFAD377089E363"
+					item: {
+						count: 1
+						id: "minecraft:copper_block"
+					}
+					type: "item"
+				}
+				{
 					exclude_from_claim_all: true
 					id: "4EB9D9828FE1B815"
 					table_id: 487623848494439020L
 					type: "loot"
-				}
-				{
-					id: "47B8B05732B2F09F"
-					type: "xp"
-					xp: 25
 				}
 			]
 			shape: "octagon"
@@ -311,7 +297,7 @@
 			rewards: [{
 				id: "77D1205EEAD47367"
 				type: "xp"
-				xp: 50
+				xp: 10
 			}]
 			tasks: [{
 				id: "03005DEF00AB48F3"
@@ -323,13 +309,13 @@
 		}
 		{
 			dependencies: ["698A959C9E449592"]
+			hide: false
 			hide_dependency_lines: false
-			hide_until_deps_visible: false
 			id: "4DE1158931F84F22"
 			rewards: [{
 				id: "2C46B4017AC5F3AE"
 				type: "xp"
-				xp: 25
+				xp: 10
 			}]
 			shape: "octagon"
 			tasks: [{
@@ -346,15 +332,15 @@
 			id: "76406EFFF8CBA6B4"
 			rewards: [
 				{
+					id: "5631B3158B9642FB"
+					type: "xp"
+					xp: 50
+				}
+				{
 					exclude_from_claim_all: true
 					id: "197F4FAA40D360D9"
 					table_id: 4196188979167302596L
 					type: "loot"
-				}
-				{
-					id: "22EE7E7246E8E87E"
-					type: "xp"
-					xp: 50
 				}
 			]
 			shape: "rsquare"
@@ -368,12 +354,14 @@
 		}
 		{
 			dependencies: ["76406EFFF8CBA6B4"]
-			icon: {
-				id: "minecraft:flint_and_steel"
-			}
 			id: "0F3D51FFD2FE8DCB"
 			min_width: 300
 			rewards: [
+				{
+					id: "196D91EFBD3EBC2F"
+					type: "xp"
+					xp: 50
+				}
 				{
 					id: "75F8E6B513937C9B"
 					item: {
@@ -381,11 +369,6 @@
 						id: "minecraft:golden_chestplate"
 					}
 					type: "item"
-				}
-				{
-					id: "27BFB09994F1A168"
-					type: "xp"
-					xp: 50
 				}
 			]
 			shape: "square"
@@ -412,29 +395,27 @@
 			id: "4E5238F00CEED8B2"
 			rewards: [
 				{
-					count: 3
+					id: "5C1B39677C047DEA"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 6
 					id: "6B5B40ABA34AD0AC"
 					item: {
 						count: 1
 						id: "alltheores:iron_dust"
 					}
-					random_bonus: 3
 					type: "item"
 				}
 				{
-					count: 3
+					count: 6
 					id: "56D64DA716E084ED"
 					item: {
 						count: 1
 						id: "alltheores:copper_dust"
 					}
-					random_bonus: 3
 					type: "item"
-				}
-				{
-					id: "01E691296A3A4432"
-					type: "xp"
-					xp: 25
 				}
 			]
 			shape: "square"
@@ -452,6 +433,11 @@
 			id: "672134A1A620EEAB"
 			rewards: [
 				{
+					id: "18EEB670636B9671"
+					type: "xp"
+					xp: 25
+				}
+				{
 					count: 3
 					id: "292F484BF4813BC8"
 					item: {
@@ -459,11 +445,6 @@
 						id: "mekanism:ultimate_universal_cable"
 					}
 					type: "item"
-				}
-				{
-					id: "33DEE660F8E5A648"
-					type: "xp"
-					xp: 50
 				}
 			]
 			shape: "square"
@@ -480,6 +461,11 @@
 			id: "4869C413646CC4CC"
 			rewards: [
 				{
+					id: "583B550C6F1EDACC"
+					type: "xp"
+					xp: 25
+				}
+				{
 					count: 3
 					id: "082D932BDF87998A"
 					item: {
@@ -487,11 +473,6 @@
 						id: "minecraft:redstone_block"
 					}
 					type: "item"
-				}
-				{
-					id: "48961510103ECFA9"
-					type: "xp"
-					xp: 50
 				}
 			]
 			shape: "square"
@@ -505,7 +486,7 @@
 		}
 		{
 			dependencies: ["0F3D51FFD2FE8DCB"]
-			hide_until_deps_visible: false
+			hide: false
 			id: "61C49BC2B384FB80"
 			rewards: [
 				{
@@ -545,7 +526,7 @@
 		}
 		{
 			dependencies: ["61C49BC2B384FB80"]
-			hide_until_deps_visible: false
+			hide: false
 			id: "6EE5BE5693E8ACE4"
 			rewards: [{
 				id: "56A277BC5DE71CA9"
@@ -554,12 +535,28 @@
 			}]
 			shape: "gear"
 			size: 2.0d
-			tasks: [{
-				advancement: "minecraft:end/dragon_egg"
-				criterion: ""
-				id: "779B347821B84A62"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "minecraft:story/enter_the_end"
+					criterion: ""
+					id: "4E47E0E49057195E"
+					type: "advancement"
+				}
+				{
+					advancement: "minecraft:end/root"
+					criterion: ""
+					icon: {
+						id: "minecraft:dragon_head"
+					}
+					id: "2F96969419E7C767"
+					type: "advancement"
+				}
+				{
+					id: "3EC9DF0765694A7E"
+					item: { count: 1, id: "minecraft:dragon_egg" }
+					type: "item"
+				}
+			]
 			x: 13.5d
 			y: 0.834183673469397d
 		}
@@ -568,6 +565,11 @@
 			id: "2EC9668ED4EA47CB"
 			rewards: [
 				{
+					id: "22A34BE659C7BC6D"
+					type: "xp"
+					xp: 25
+				}
+				{
 					count: 2
 					id: "663292AD95F1E2D1"
 					item: {
@@ -575,11 +577,6 @@
 						id: "minecraft:diamond"
 					}
 					type: "item"
-				}
-				{
-					id: "317DD048EF0D4A8E"
-					type: "xp"
-					xp: 50
 				}
 			]
 			shape: "rsquare"
@@ -596,17 +593,17 @@
 			id: "1E1EB7DC19DDCFB7"
 			rewards: [
 				{
+					id: "59B9C8F5AB1E300A"
+					type: "xp"
+					xp: 100
+				}
+				{
 					id: "35CDC7E5C0EE5EDE"
 					item: {
 						count: 1
 						id: "minecraft:netherite_upgrade_smithing_template"
 					}
 					type: "item"
-				}
-				{
-					id: "54CBBF7EEDEE91E7"
-					type: "xp"
-					xp: 100
 				}
 			]
 			shape: "diamond"
@@ -627,6 +624,11 @@
 			id: "0F026D5A17CCCF51"
 			rewards: [
 				{
+					id: "58E67AE81201E3EA"
+					type: "xp"
+					xp: 50
+				}
+				{
 					count: 3
 					id: "05FE76F501B0D1CA"
 					item: {
@@ -634,11 +636,6 @@
 						id: "minecraft:diamond"
 					}
 					type: "item"
-				}
-				{
-					id: "69F398684E9040D4"
-					type: "xp"
-					xp: 50
 				}
 			]
 			shape: "square"
@@ -652,10 +649,15 @@
 		}
 		{
 			dependencies: ["051E0C85E7B71CE0"]
+			hide: false
 			hide_dependency_lines: true
-			hide_until_deps_visible: false
 			id: "3ADCAD65EA6900BA"
 			rewards: [
+				{
+					id: "52FD7FF469E1E202"
+					type: "xp"
+					xp: 10
+				}
 				{
 					id: "414918F26EEB4C41"
 					item: {
@@ -663,11 +665,6 @@
 						id: "minecraft:brush"
 					}
 					type: "item"
-				}
-				{
-					id: "44B45DF28D9E06C0"
-					type: "xp"
-					xp: 50
 				}
 			]
 			shape: "rsquare"
@@ -677,45 +674,40 @@
 				item: { count: 1, id: "minecraft:brush" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 7.5d
+			x: -1.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["0F3D51FFD2FE8DCB"]
 			id: "5E799B92358A8732"
-			rewards: [
+			rewards: [{
+				count: 3
+				id: "59B12AC887E1CAD7"
+				item: {
+					count: 1
+					id: "minecraft:netherite_scrap"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [
 				{
-					count: 3
-					id: "59B12AC887E1CAD7"
-					item: {
-						count: 1
-						id: "minecraft:netherite_scrap"
-					}
+					id: "43762D6B09E48291"
+					item: { count: 1, id: "minecraft:ancient_debris" }
 					type: "item"
 				}
 				{
-					id: "61559C81C57A73C5"
-					type: "xp"
-					xp: 100
+					id: "4346DAC18183627E"
+					item: { count: 1, id: "minecraft:netherite_ingot" }
+					type: "item"
 				}
 			]
-			shape: "square"
-			tasks: [{
-				id: "4346DAC18183627E"
-				item: { count: 1, id: "minecraft:netherite_ingot" }
-				type: "item"
-			}]
 			x: 13.5d
 			y: 7.5d
 		}
 		{
 			dependencies: ["5E799B92358A8732"]
 			id: "6EDAB29FBD3C60A3"
-			rewards: [{
-				id: "2CAC99F03D8678A9"
-				type: "xp"
-				xp: 50
-			}]
 			shape: "hexagon"
 			size: 1.0d
 			tasks: [{
@@ -743,13 +735,18 @@
 				item: { components: { "ftbfiltersystem:filter": "item_tag(minecraft:trim_templates)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -3.642857142857139d
-			y: 7.512755102040828d
+			x: -3.142857142857139d
+			y: 8.012755102040828d
 		}
 		{
 			dependencies: ["3ADCAD65EA6900BA"]
 			id: "72989212DD45DC10"
 			rewards: [
+				{
+					id: "2071EEC4C3305EC6"
+					type: "xp"
+					xp: 250
+				}
 				{
 					id: "0104461FF41D008A"
 					item: {
@@ -758,11 +755,6 @@
 					}
 					type: "item"
 				}
-				{
-					id: "1B19047A31E54658"
-					type: "xp"
-					xp: 250
-				}
 			]
 			shape: "heart"
 			tasks: [{
@@ -770,33 +762,24 @@
 				item: { count: 1, id: "minecraft:sniffer_egg" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 9.25d
+			x: -1.5d
+			y: 9.75d
 		}
 		{
 			dependencies: ["6EDAB29FBD3C60A3"]
-			hide_until_deps_visible: false
+			hide: false
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/gettingstarted/warden_roar.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "6D09511D64DDC282"
-			rewards: [
-				{
-					id: "7949A3E032C67EB5"
-					type: "xp"
-					xp: 250
-				}
-				{
-					id: "64B7287BFF555B4E"
-					item: {
-						components: {
-							"minecraft:potion_contents": {
-								potion: "potionsmaster:allthemodium"
-							}
-						}
-						count: 1
-						id: "minecraft:potion"
-					}
-					type: "item"
-				}
-			]
+			rewards: [{
+				id: "7949A3E032C67EB5"
+				type: "xp"
+				xp: 250
+			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
@@ -813,8 +796,8 @@
 		}
 		{
 			dependencies: ["4A4C71C43519D5FE"]
+			hide: false
 			hide_dependency_lines: false
-			hide_until_deps_visible: false
 			icon: {
 				components: {
 					"ftbquests:icon": "atm:textures/questpics/wither.png"
@@ -862,10 +845,7 @@
 		}
 		{
 			dependencies: ["0F3D51FFD2FE8DCB"]
-			hide_until_deps_visible: false
-			icon: {
-				id: "minecraft:wither_skeleton_skull"
-			}
+			hide: false
 			id: "4A4C71C43519D5FE"
 			rewards: [{
 				count: 3
@@ -980,9 +960,6 @@
 		}
 		{
 			dependencies: ["7D38BC3DB3406F51"]
-			icon: {
-				id: "minecraft:coal"
-			}
 			id: "24C9BA6DC32CFAD9"
 			rewards: [{
 				count: 6
@@ -994,8 +971,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "539C6F64C251543B"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:coals)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "5CD2FDE306BF3C0F"
+				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:coal)item(minecraft:charcoal)item(justdirethings:coal_t1))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -1058,24 +1035,6 @@
 			}]
 			x: 3.0d
 			y: 9.0d
-		}
-		{
-			id: "110BF3A2BE85F911"
-			invisible: true
-			optional: true
-			shape: "circle"
-			tasks: [
-				{
-					id: "44CEA28EBD6C0898"
-					type: "checkmark"
-				}
-				{
-					id: "7C6F7EF2B3AC2824"
-					type: "checkmark"
-				}
-			]
-			x: -4.0d
-			y: 1.5d
 		}
 	]
 }

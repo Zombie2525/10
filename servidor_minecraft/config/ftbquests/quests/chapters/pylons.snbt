@@ -89,15 +89,15 @@
 			y: 0.0d
 		}
 	]
-	order_index: 3
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
 			id: "30B0240543253EFB"
 			rewards: [{
-				id: "66E829005EF46BB8"
-				type: "xp"
-				xp: 10
+				id: "2795AB11AF5A08CD"
+				type: "xp_levels"
+				xp_levels: 1
 			}]
 			shape: "gear"
 			size: 2.0d
@@ -117,19 +117,18 @@
 			id: "32E52AD6EF194A60"
 			rewards: [
 				{
-					count: 2
+					id: "503EC58A04C10507"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 3
 					id: "3CF4155E1C75F1ED"
 					item: {
 						count: 1
 						id: "minecraft:diamond"
 					}
-					random_bonus: 1
 					type: "item"
-				}
-				{
-					id: "36AB8595320E5CDC"
-					type: "xp"
-					xp: 100
 				}
 			]
 			shape: "hexagon"
@@ -146,24 +145,22 @@
 			dependencies: [
 				"30B0240543253EFB"
 				"011F787E620DE9E8"
-				"5C2C29ECA67F9B49"
 			]
-			dependency_requirement: "one_completed"
 			id: "5B5FC539BD1F4A73"
 			rewards: [
 				{
+					id: "2A29175ED2C50B63"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 2
 					id: "353EEB89FCC773A5"
 					item: {
 						count: 1
 						id: "minecraft:netherite_ingot"
 					}
-					random_bonus: 1
 					type: "item"
-				}
-				{
-					id: "15F7851D230DD078"
-					type: "xp"
-					xp: 100
 				}
 			]
 			shape: "hexagon"
@@ -184,19 +181,18 @@
 			id: "12ED1EE85E146A4B"
 			rewards: [
 				{
-					count: 4
+					id: "5DEB117BAE548ED3"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 8
 					id: "72253D5B5719D67C"
 					item: {
 						count: 1
 						id: "minecraft:wheat_seeds"
 					}
-					random_bonus: 4
 					type: "item"
-				}
-				{
-					id: "15DA13E2ABC006AE"
-					type: "xp"
-					xp: 100
 				}
 			]
 			shape: "hexagon"
@@ -217,19 +213,18 @@
 			id: "18246A48C20B29D8"
 			rewards: [
 				{
-					count: 2
+					id: "69C85E9C1C5E0253"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 3
 					id: "76D467DBB82E49FB"
 					item: {
 						count: 1
 						id: "minecraft:emerald"
 					}
-					random_bonus: 1
 					type: "item"
-				}
-				{
-					id: "7F3C5F320D97DB0A"
-					type: "xp"
-					xp: 100
 				}
 			]
 			shape: "hexagon"
@@ -245,11 +240,6 @@
 		{
 			hide_details_until_startable: false
 			id: "403F76908A8A5661"
-			rewards: [{
-				id: "013F84A7E06CEAF4"
-				type: "xp"
-				xp: 50
-			}]
 			shape: "rsquare"
 			size: 0.9d
 			tasks: [{
@@ -262,22 +252,15 @@
 		}
 		{
 			id: "011F787E620DE9E8"
-			rewards: [
-				{
-					count: 10
-					id: "59E5500081B17596"
-					item: {
-						count: 1
-						id: "minecraft:torch"
-					}
-					type: "item"
+			rewards: [{
+				count: 10
+				id: "59E5500081B17596"
+				item: {
+					count: 1
+					id: "minecraft:torch"
 				}
-				{
-					id: "100E6A8A4F7BE6A8"
-					type: "xp"
-					xp: 50
-				}
-			]
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 0.9d
 			tasks: [{
@@ -285,7 +268,7 @@
 				item: { count: 1, id: "pylons:mob_filter" }
 				type: "item"
 			}]
-			x: 2.25d
+			x: 3.15d
 			y: 3.15d
 		}
 		{
@@ -308,11 +291,6 @@
 					}
 					type: "item"
 				}
-				{
-					id: "6C5A2E48A8E7AF91"
-					type: "xp"
-					xp: 50
-				}
 			]
 			shape: "rsquare"
 			size: 0.9d
@@ -329,28 +307,21 @@
 				id: "minecraft:diamond_hoe"
 			}
 			id: "034A9FBCA6D79BB6"
-			rewards: [
-				{
-					id: "42FFCBCEDF641E38"
-					item: {
-						components: {
-							"minecraft:stored_enchantments": {
-								levels: {
-									"minecraft:unbreaking": 1
-								}
+			rewards: [{
+				id: "42FFCBCEDF641E38"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"minecraft:unbreaking": 3
 							}
 						}
-						count: 1
-						id: "minecraft:enchanted_book"
 					}
-					type: "item"
+					count: 1
+					id: "minecraft:enchanted_book"
 				}
-				{
-					id: "6F04437283A384E5"
-					type: "xp"
-					xp: 10
-				}
-			]
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 0.9d
 			tasks: [{
@@ -360,51 +331,6 @@
 			}]
 			x: -3.15d
 			y: 3.15d
-		}
-		{
-			id: "5E02AE661945306C"
-			invisible: true
-			optional: true
-			shape: "circle"
-			tasks: [
-				{
-					id: "59DD89698DBAA215"
-					type: "checkmark"
-				}
-				{
-					id: "35320BB07FB39D05"
-					type: "checkmark"
-				}
-			]
-			x: 0.0d
-			y: -2.0d
-		}
-		{
-			id: "5C2C29ECA67F9B49"
-			rewards: [
-				{
-					id: "07A72218D91DDE5E"
-					item: {
-						count: 1
-						id: "minecraft:nether_star"
-					}
-					type: "item"
-				}
-				{
-					id: "605CF3E3B69CE59E"
-					type: "xp"
-					xp: 50
-				}
-			]
-			shape: "rsquare"
-			size: 0.9d
-			tasks: [{
-				id: "5E3CBC6340E0D0AE"
-				item: { count: 1, id: "pylons:lifeless_filter" }
-				type: "item"
-			}]
-			x: 3.15d
-			y: 2.35d
 		}
 	]
 }

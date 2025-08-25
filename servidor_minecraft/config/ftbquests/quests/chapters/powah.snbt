@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: true
 	default_quest_shape: ""
 	filename: "powah"
-	group: "49AECADBA9E79A3B"
+	group: "2B51AC12041E3F89"
 	icon: {
 		id: "powah:energizing_orb"
 	}
@@ -13,144 +13,144 @@
 			image: "powah:item/capacitor_basic"
 			rotation: 0.0d
 			width: 1.0d
-			x: -9.0d
-			y: 8.0d
+			x: -9.5d
+			y: 12.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_basic_tiny"
 			rotation: 0.0d
 			width: 1.0d
-			x: -9.0d
-			y: 7.0d
+			x: -9.5d
+			y: 11.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_hardened"
 			rotation: 0.0d
 			width: 1.0d
-			x: -9.0d
-			y: 9.0d
+			x: -9.5d
+			y: 13.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_blazing"
 			rotation: 0.0d
 			width: 1.0d
-			x: -9.0d
-			y: 10.0d
+			x: -9.5d
+			y: 14.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_niotic"
 			rotation: 0.0d
 			width: 1.0d
-			x: -9.0d
-			y: 11.0d
+			x: -9.5d
+			y: 15.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_spirited"
 			rotation: 0.0d
 			width: 1.0d
-			x: -9.0d
-			y: 12.0d
+			x: -9.5d
+			y: 16.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_nitro"
 			rotation: 0.0d
 			width: 1.0d
-			x: -9.0d
-			y: 13.0d
+			x: -9.5d
+			y: 17.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_nitro"
 			rotation: 0.0d
 			width: 1.0d
-			x: 9.0d
-			y: 13.0d
+			x: 8.5d
+			y: 17.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_spirited"
 			rotation: 0.0d
 			width: 1.0d
-			x: 9.0d
-			y: 12.0d
+			x: 8.5d
+			y: 16.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_niotic"
 			rotation: 0.0d
 			width: 1.0d
-			x: 9.0d
-			y: 11.0d
+			x: 8.5d
+			y: 15.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_blazing"
 			rotation: 0.0d
 			width: 1.0d
-			x: 9.0d
-			y: 10.0d
+			x: 8.5d
+			y: 14.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_hardened"
 			rotation: 0.0d
 			width: 1.0d
-			x: 9.0d
-			y: 9.0d
+			x: 8.5d
+			y: 13.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_basic"
 			rotation: 0.0d
 			width: 1.0d
-			x: 9.0d
-			y: 8.0d
+			x: 8.5d
+			y: 12.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/capacitor_basic_tiny"
 			rotation: 0.0d
 			width: 1.0d
-			x: 9.0d
-			y: 7.0d
+			x: 8.5d
+			y: 11.5d
 		}
 		{
 			height: 2.0d
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 2.0d
-			x: 0.0d
-			y: 0.0d
+			x: -0.5d
+			y: 4.5d
 		}
 		{
 			height: 2.0d
 			image: "ftbquests:block/barrier_open"
 			rotation: 0.0d
 			width: 2.0d
-			x: 0.0d
-			y: 3.5d
+			x: -0.5d
+			y: 8.0d
 		}
 		{
 			height: 1.0d
 			image: "powah:block/nitro_crystal_block"
 			rotation: 45.0d
 			width: 1.0d
-			x: 0.0d
-			y: 14.5d
+			x: -0.5d
+			y: 19.0d
 		}
 		{
 			height: 3.0d
 			image: "ftbquests:tasks/input_only"
 			rotation: 0.0d
 			width: 3.0d
-			x: 0.0d
-			y: 0.0d
+			x: -0.5d
+			y: 4.5d
 		}
 		{
 			alpha: 150
@@ -160,8 +160,8 @@
 			order: -1
 			rotation: 0.0d
 			width: 24.0d
-			x: 0.0d
-			y: 10.0d
+			x: -0.5d
+			y: 14.5d
 		}
 		{
 			alpha: 200
@@ -169,16 +169,16 @@
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
-			x: 0.0d
-			y: 6.5d
+			x: -0.5d
+			y: 11.0d
 		}
 		{
 			height: 0.025d
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
-			x: 0.0d
-			y: 7.5d
+			x: -0.5d
+			y: 12.0d
 		}
 		{
 			alpha: 200
@@ -186,8 +186,8 @@
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
-			x: 0.0d
-			y: 7.5d
+			x: -0.5d
+			y: 12.0d
 		}
 		{
 			alpha: 200
@@ -195,8 +195,8 @@
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
-			x: 0.0d
-			y: 8.5d
+			x: -0.5d
+			y: 13.0d
 		}
 		{
 			alpha: 200
@@ -204,8 +204,8 @@
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
-			x: 0.0d
-			y: 9.5d
+			x: -0.5d
+			y: 14.0d
 		}
 		{
 			alpha: 200
@@ -213,8 +213,8 @@
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
-			x: 0.0d
-			y: 10.5d
+			x: -0.5d
+			y: 15.0d
 		}
 		{
 			alpha: 200
@@ -222,8 +222,8 @@
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
-			x: 0.0d
-			y: 11.5d
+			x: -0.5d
+			y: 16.0d
 		}
 		{
 			alpha: 200
@@ -231,8 +231,8 @@
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
-			x: 0.0d
-			y: 12.5d
+			x: -0.5d
+			y: 17.0d
 		}
 		{
 			alpha: 200
@@ -240,96 +240,105 @@
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
-			x: 0.0d
-			y: 13.5d
+			x: -0.5d
+			y: 18.0d
 		}
 		{
 			height: 0.9d
 			image: "atm:textures/questpics/powah/text/storage_text.png"
 			rotation: 0.0d
 			width: 2.3019230769230767d
-			x: -2.0d
-			y: 6.25d
+			x: -2.5d
+			y: 10.75d
 		}
 		{
 			height: 0.8d
 			image: "atm:textures/questpics/powah/text/generation_text.png"
 			rotation: 0.0d
 			width: 3.3600000000000003d
-			x: 6.0d
-			y: 6.199999999999999d
+			x: 5.5d
+			y: 10.7d
 		}
 		{
 			height: 0.75d
 			image: "atm:textures/questpics/powah/text/useful_items_text.png"
 			rotation: 0.0d
 			width: 3.908823529411765d
-			x: -6.0d
-			y: 6.199999999999999d
+			x: -6.5d
+			y: 10.7d
 		}
 		{
 			height: 0.75d
 			image: "atm:textures/questpics/powah/text/transfer_text.png"
 			rotation: 0.0d
 			width: 2.6029411764705883d
-			x: 2.0d
-			y: 6.199999999999999d
+			x: 1.5d
+			y: 10.7d
 		}
 		{
 			height: 1.0d
 			image: "powah:block/niotic_crystal_block"
 			rotation: 45.0d
 			width: 1.0d
-			x: 0.0d
-			y: 5.5d
+			x: -0.5d
+			y: 10.0d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/uraninite_raw"
 			rotation: 0.0d
 			width: 1.0d
-			x: -10.0d
-			y: 6.0d
+			x: -10.5d
+			y: 10.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/uraninite_raw"
 			rotation: 0.0d
 			width: 1.0d
-			x: -10.0d
-			y: 14.0d
+			x: -10.5d
+			y: 18.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/uraninite_raw"
 			rotation: 0.0d
 			width: 1.0d
-			x: 10.0d
-			y: 6.0d
+			x: 9.5d
+			y: 10.5d
 		}
 		{
 			height: 1.0d
 			image: "powah:item/uraninite_raw"
 			rotation: 0.0d
 			width: 1.0d
-			x: 10.0d
-			y: 14.0d
+			x: 9.5d
+			y: 18.5d
 		}
 		{
 			height: 0.3d
+			hover: ["{atm10.quest.ae2.img.star}"]
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
-			x: -6.0d
-			y: 13.7d
+			x: -5.5d
+			y: 18.1d
+		}
+		{
+			height: 0.3d
+			hover: ["{atm10.quest.ae2.img.star}"]
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.3d
+			x: -6.5d
+			y: 18.1d
 		}
 	]
-	order_index: 3
+	order_index: 4
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
 		{
-			icon_scale: 1.3d
 			id: "6B2027DA7AA6FF34"
 			rewards: [
 				{
@@ -356,8 +365,8 @@
 				item: { count: 1, id: "powah:uraninite_raw" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: -0.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["6B2027DA7AA6FF34"]
@@ -365,15 +374,13 @@
 			id: "7E92ED270C67FDE5"
 			rewards: [
 				{
-					id: "5B2BBBBAE5A3FD3B"
-					item: {
-						count: 1
-						id: "powah:dielectric_casing"
-					}
-					type: "item"
+					exclude_from_claim_all: true
+					id: "5FC5C0DBD1862334"
+					table_id: 4236052250335530963L
+					type: "random"
 				}
 				{
-					id: "405A74769A418204"
+					id: "4E8234C1477A2822"
 					type: "xp"
 					xp: 25
 				}
@@ -392,8 +399,8 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
-			y: 2.0d
+			x: -0.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["7E92ED270C67FDE5"]
@@ -401,7 +408,6 @@
 			icon: {
 				id: "powah:energizing_orb"
 			}
-			icon_scale: 1.2d
 			id: "3DDF87A1E5F5D009"
 			min_width: 300
 			rewards: [
@@ -431,13 +437,14 @@
 					type: "item"
 				}
 				{
+					count: 3L
 					id: "17F07D6404668DE6"
 					item: { components: { "ftbfiltersystem:filter": "or(item(powah:energizing_rod_starter)item(powah:energizing_rod_basic))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 			]
-			x: 0.0d
-			y: 3.5d
+			x: -0.5d
+			y: 8.0d
 		}
 		{
 			dependencies: [
@@ -463,8 +470,8 @@
 				item: { count: 1, id: "powah:thermo_generator_starter" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 7.0d
+			x: 5.5d
+			y: 11.5d
 		}
 		{
 			dependencies: [
@@ -490,8 +497,8 @@
 				item: { count: 1, id: "powah:furnator_starter" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 7.0d
+			x: 4.5d
+			y: 11.5d
 		}
 		{
 			dependencies: [
@@ -517,8 +524,8 @@
 				item: { count: 1, id: "powah:solar_panel_starter" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 7.0d
+			x: 7.5d
+			y: 11.5d
 		}
 		{
 			dependencies: [
@@ -544,8 +551,8 @@
 				item: { count: 1, id: "powah:magmator_starter" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 7.0d
+			x: 3.5d
+			y: 11.5d
 		}
 		{
 			dependencies: [
@@ -581,8 +588,8 @@
 				item: { count: 1, id: "powah:reactor_starter" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 7.0d
+			x: 6.5d
+			y: 11.5d
 		}
 		{
 			dependencies: [
@@ -608,8 +615,8 @@
 				item: { count: 1, id: "powah:ender_gate_starter" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 7.0d
+			x: 2.0d
+			y: 11.5d
 		}
 		{
 			dependencies: [
@@ -635,8 +642,8 @@
 				item: { count: 1, id: "powah:energy_cable_starter" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 7.0d
+			x: 1.0d
+			y: 11.5d
 		}
 		{
 			dependencies: [
@@ -669,8 +676,8 @@
 					type: "item"
 				}
 			]
-			x: -6.0d
-			y: 7.0d
+			x: -6.5d
+			y: 11.5d
 		}
 		{
 			dependencies: [
@@ -697,8 +704,8 @@
 				item: { count: 1, id: "powah:energy_hopper_starter" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 7.0d
+			x: -7.5d
+			y: 11.5d
 		}
 		{
 			dependencies: [
@@ -725,8 +732,8 @@
 				item: { count: 1, id: "powah:energy_discharger_starter" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: 7.0d
+			x: -8.5d
+			y: 11.5d
 		}
 		{
 			dependencies: [
@@ -752,8 +759,8 @@
 				item: { count: 1, id: "powah:energy_cell_starter" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 7.0d
+			x: -2.0d
+			y: 11.5d
 		}
 		{
 			dependencies: [
@@ -782,8 +789,8 @@
 				item: { count: 1, id: "powah:ender_cell_starter" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 7.0d
+			x: -3.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["3DDF87A1E5F5D009"]
@@ -808,8 +815,8 @@
 				item: { count: 1, id: "powah:steel_energized" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 9.0d
+			x: -0.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["3DDF87A1E5F5D009"]
@@ -834,8 +841,8 @@
 				item: { count: 1, id: "powah:crystal_blazing" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 10.0d
+			x: -0.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["3DDF87A1E5F5D009"]
@@ -860,8 +867,8 @@
 				item: { count: 1, id: "powah:crystal_niotic" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 11.0d
+			x: -0.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["3DDF87A1E5F5D009"]
@@ -886,8 +893,8 @@
 				item: { count: 1, id: "powah:crystal_spirited" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 12.0d
+			x: -0.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["3DDF87A1E5F5D009"]
@@ -912,8 +919,8 @@
 				item: { count: 1, id: "powah:crystal_nitro" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 13.0d
+			x: -0.5d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -939,8 +946,8 @@
 				item: { count: 1, id: "powah:battery_starter" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 7.0d
+			x: -5.5d
+			y: 11.5d
 		}
 		{
 			dependencies: ["66ECC26BC81D0093"]
@@ -965,8 +972,8 @@
 				item: { count: 1, id: "powah:energy_discharger_basic" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: 8.0d
+			x: -8.5d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -993,8 +1000,8 @@
 				item: { count: 1, id: "powah:energy_hopper_basic" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 8.0d
+			x: -7.5d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1020,8 +1027,8 @@
 				item: { count: 1, id: "powah:player_transmitter_basic" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 8.0d
+			x: -6.5d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1047,8 +1054,8 @@
 				item: { count: 1, id: "powah:battery_basic" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 8.0d
+			x: -5.5d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1075,8 +1082,8 @@
 				item: { count: 1, id: "powah:ender_cell_basic" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 8.0d
+			x: -3.0d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1105,8 +1112,8 @@
 				item: { count: 1, id: "powah:energy_cell_basic" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 8.0d
+			x: -2.0d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1134,8 +1141,8 @@
 				item: { count: 1, id: "powah:energy_cable_basic" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 8.0d
+			x: 1.0d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1161,8 +1168,8 @@
 				item: { count: 1, id: "powah:ender_gate_basic" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 8.0d
+			x: 2.0d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1188,8 +1195,8 @@
 				item: { count: 1, id: "powah:magmator_basic" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 8.0d
+			x: 3.5d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1215,8 +1222,8 @@
 				item: { count: 1, id: "powah:furnator_basic" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 8.0d
+			x: 4.5d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1242,8 +1249,8 @@
 				item: { count: 1, id: "powah:thermo_generator_basic" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 8.0d
+			x: 5.5d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1270,8 +1277,8 @@
 				item: { count: 1, id: "powah:reactor_basic" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 8.0d
+			x: 6.5d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1297,8 +1304,8 @@
 				item: { count: 1, id: "powah:solar_panel_basic" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 8.0d
+			x: 7.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["5E090C9BB4DAA5D4"]
@@ -1323,8 +1330,8 @@
 				item: { count: 1, id: "powah:energy_discharger_hardened" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: 9.0d
+			x: -8.5d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -1351,8 +1358,8 @@
 				item: { count: 1, id: "powah:energy_hopper_hardened" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 9.0d
+			x: -7.5d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -1378,8 +1385,8 @@
 				item: { count: 1, id: "powah:player_transmitter_hardened" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 9.0d
+			x: -6.5d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -1405,8 +1412,8 @@
 				item: { count: 1, id: "powah:battery_hardened" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 9.0d
+			x: -5.5d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -1432,8 +1439,8 @@
 				item: { count: 1, id: "powah:energy_cell_hardened" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 9.0d
+			x: -2.0d
+			y: 13.5d
 		}
 		{
 			dependencies: ["5E090C9BB4DAA5D4"]
@@ -1457,8 +1464,8 @@
 				item: { count: 1, id: "powah:ender_cell_hardened" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 9.0d
+			x: -3.0d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -1486,8 +1493,8 @@
 				item: { count: 1, id: "powah:energy_cable_hardened" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 9.0d
+			x: 1.0d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -1513,8 +1520,8 @@
 				item: { count: 1, id: "powah:ender_gate_hardened" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 9.0d
+			x: 2.0d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -1540,8 +1547,8 @@
 				item: { count: 1, id: "powah:magmator_hardened" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 9.0d
+			x: 3.5d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -1567,8 +1574,8 @@
 				item: { count: 1, id: "powah:furnator_hardened" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 9.0d
+			x: 4.5d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -1594,8 +1601,8 @@
 				item: { count: 1, id: "powah:thermo_generator_hardened" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 9.0d
+			x: 5.5d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -1622,8 +1629,8 @@
 				item: { count: 1, id: "powah:reactor_hardened" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 9.0d
+			x: 6.5d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -1649,8 +1656,8 @@
 				item: { count: 1, id: "powah:solar_panel_hardened" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 9.0d
+			x: 7.5d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -1676,8 +1683,8 @@
 				item: { count: 1, id: "powah:battery_blazing" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 10.0d
+			x: -5.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["562BD37539EE318E"]
@@ -1702,8 +1709,8 @@
 				item: { count: 1, id: "powah:energy_discharger_blazing" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: 10.0d
+			x: -8.5d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -1730,8 +1737,8 @@
 				item: { count: 1, id: "powah:energy_hopper_blazing" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 10.0d
+			x: -7.5d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -1757,8 +1764,8 @@
 				item: { count: 1, id: "powah:player_transmitter_blazing" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 10.0d
+			x: -6.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["562BD37539EE318E"]
@@ -1782,8 +1789,8 @@
 				item: { count: 1, id: "powah:ender_cell_blazing" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 10.0d
+			x: -3.0d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -1809,8 +1816,8 @@
 				item: { count: 1, id: "powah:energy_cell_blazing" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 10.0d
+			x: -2.0d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -1838,8 +1845,8 @@
 				item: { count: 1, id: "powah:energy_cable_blazing" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 10.0d
+			x: 1.0d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -1865,8 +1872,8 @@
 				item: { count: 1, id: "powah:ender_gate_blazing" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 10.0d
+			x: 2.0d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -1892,8 +1899,8 @@
 				item: { count: 1, id: "powah:magmator_blazing" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 10.0d
+			x: 3.5d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -1919,8 +1926,8 @@
 				item: { count: 1, id: "powah:furnator_blazing" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 10.0d
+			x: 4.5d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -1946,8 +1953,8 @@
 				item: { count: 1, id: "powah:thermo_generator_blazing" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 10.0d
+			x: 5.5d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -1974,8 +1981,8 @@
 				item: { count: 1, id: "powah:reactor_blazing" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 10.0d
+			x: 6.5d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -2001,8 +2008,8 @@
 				item: { count: 1, id: "powah:solar_panel_blazing" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 10.0d
+			x: 7.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["7D7983F39E6E818D"]
@@ -2027,8 +2034,8 @@
 				item: { count: 1, id: "powah:energy_discharger_niotic" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: 11.0d
+			x: -8.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["04811BA420B80046"]
@@ -2052,8 +2059,8 @@
 				item: { count: 1, id: "powah:energy_hopper_niotic" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 11.0d
+			x: -7.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["1D80E6C3327AB376"]
@@ -2076,8 +2083,8 @@
 				item: { count: 1, id: "powah:player_transmitter_niotic" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 11.0d
+			x: -6.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["79421463F01ED2D7"]
@@ -2100,8 +2107,8 @@
 				item: { count: 1, id: "powah:battery_niotic" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 11.0d
+			x: -5.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["7D7983F39E6E818D"]
@@ -2125,8 +2132,8 @@
 				item: { count: 1, id: "powah:ender_cell_niotic" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 11.0d
+			x: -3.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["25088F06228F8561"]
@@ -2149,8 +2156,8 @@
 				item: { count: 1, id: "powah:energy_cell_niotic" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 11.0d
+			x: -2.0d
+			y: 15.5d
 		}
 		{
 			dependencies: [
@@ -2178,8 +2185,8 @@
 				item: { count: 1, id: "powah:energy_cable_niotic" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 11.0d
+			x: 1.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["68B604EF40198B8D"]
@@ -2202,8 +2209,8 @@
 				item: { count: 1, id: "powah:ender_gate_niotic" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 11.0d
+			x: 2.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["0C7D0AB254DF8CF1"]
@@ -2226,8 +2233,8 @@
 				item: { count: 1, id: "powah:magmator_niotic" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 11.0d
+			x: 3.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["323F7A0C4FAC28D0"]
@@ -2250,8 +2257,8 @@
 				item: { count: 1, id: "powah:furnator_niotic" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 11.0d
+			x: 4.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["44C1315098B9CF3F"]
@@ -2274,8 +2281,8 @@
 				item: { count: 1, id: "powah:thermo_generator_niotic" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 11.0d
+			x: 5.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["6754612E9AD4B9C0"]
@@ -2299,8 +2306,8 @@
 				item: { count: 1, id: "powah:reactor_niotic" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 11.0d
+			x: 6.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["7C34EED27A9737D4"]
@@ -2323,8 +2330,8 @@
 				item: { count: 1, id: "powah:solar_panel_niotic" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 11.0d
+			x: 7.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["7E92ED270C67FDE5"]
@@ -2349,8 +2356,8 @@
 				item: { count: 1, id: "powah:capacitor_basic_tiny" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 7.0d
+			x: -0.5d
+			y: 11.5d
 		}
 		{
 			dependencies: ["7E92ED270C67FDE5"]
@@ -2375,8 +2382,8 @@
 				item: { count: 1, id: "powah:capacitor_basic" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 8.0d
+			x: -0.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["03798EF7AB47BB3D"]
@@ -2399,8 +2406,8 @@
 				item: { count: 1, id: "powah:battery_spirited" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 12.0d
+			x: -5.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["2DD9994665799747"]
@@ -2423,8 +2430,8 @@
 				item: { count: 1, id: "powah:player_transmitter_spirited" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 12.0d
+			x: -6.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["5A8DE0C7D4F28E05"]
@@ -2448,8 +2455,8 @@
 				item: { count: 1, id: "powah:energy_hopper_spirited" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 12.0d
+			x: -7.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["25EFC21A3C48E0B6"]
@@ -2474,8 +2481,8 @@
 				item: { count: 1, id: "powah:energy_discharger_spirited" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: 12.0d
+			x: -8.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["25EFC21A3C48E0B6"]
@@ -2499,8 +2506,8 @@
 				item: { count: 1, id: "powah:ender_cell_spirited" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 12.0d
+			x: -3.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["6EFB4BF8110F2712"]
@@ -2523,8 +2530,8 @@
 				item: { count: 1, id: "powah:energy_cell_spirited" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 12.0d
+			x: -2.0d
+			y: 16.5d
 		}
 		{
 			dependencies: [
@@ -2552,8 +2559,8 @@
 				item: { count: 1, id: "powah:energy_cable_spirited" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 12.0d
+			x: 1.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["379EBE12E3F61679"]
@@ -2576,8 +2583,8 @@
 				item: { count: 1, id: "powah:ender_gate_spirited" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 12.0d
+			x: 2.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["03442045ED56068F"]
@@ -2600,8 +2607,8 @@
 				item: { count: 1, id: "powah:magmator_spirited" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 12.0d
+			x: 3.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["24EE138780C43447"]
@@ -2624,8 +2631,8 @@
 				item: { count: 1, id: "powah:furnator_spirited" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 12.0d
+			x: 4.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["28EE8C172F9DF5C1"]
@@ -2648,8 +2655,8 @@
 				item: { count: 1, id: "powah:thermo_generator_spirited" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 12.0d
+			x: 5.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["0FFF2BEE5D8EBE12"]
@@ -2673,8 +2680,8 @@
 				item: { count: 1, id: "powah:reactor_spirited" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 12.0d
+			x: 6.5d
+			y: 16.5d
 		}
 		{
 			dependencies: ["39386F88CB38CF36"]
@@ -2697,8 +2704,8 @@
 				item: { count: 1, id: "powah:solar_panel_spirited" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 12.0d
+			x: 7.5d
+			y: 16.5d
 		}
 		{
 			dependencies: [
@@ -2724,8 +2731,8 @@
 				item: { count: 1, id: "powah:player_transmitter_nitro" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 13.0d
+			x: -6.5d
+			y: 17.5d
 		}
 		{
 			dependencies: ["4F1FFC02F4EAA2E6"]
@@ -2750,8 +2757,8 @@
 				item: { count: 1, id: "powah:energy_discharger_nitro" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: 13.0d
+			x: -8.5d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -2779,8 +2786,8 @@
 				item: { count: 1, id: "powah:energy_hopper_nitro" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 13.0d
+			x: -7.5d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -2806,8 +2813,8 @@
 				item: { count: 1, id: "powah:battery_nitro" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 13.0d
+			x: -5.5d
+			y: 17.5d
 		}
 		{
 			dependencies: ["4F1FFC02F4EAA2E6"]
@@ -2830,8 +2837,8 @@
 				item: { count: 1, id: "powah:ender_cell_nitro" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 13.0d
+			x: -3.0d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -2857,8 +2864,8 @@
 				item: { count: 1, id: "powah:energy_cell_nitro" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 13.0d
+			x: -2.0d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -2885,8 +2892,8 @@
 				item: { count: 1, id: "powah:energy_cable_nitro" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 13.0d
+			x: 1.0d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -2912,8 +2919,8 @@
 				item: { count: 1, id: "powah:ender_gate_nitro" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 13.0d
+			x: 2.0d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -2939,8 +2946,8 @@
 				item: { count: 1, id: "powah:magmator_nitro" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 13.0d
+			x: 3.5d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -2966,8 +2973,8 @@
 				item: { count: 1, id: "powah:furnator_nitro" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 13.0d
+			x: 4.5d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -2993,8 +3000,8 @@
 				item: { count: 1, id: "powah:thermo_generator_nitro" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 13.0d
+			x: 5.5d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -3021,8 +3028,8 @@
 				item: { count: 1, id: "powah:reactor_nitro" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 13.0d
+			x: 6.5d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -3048,8 +3055,8 @@
 				item: { count: 1, id: "powah:solar_panel_nitro" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 13.0d
+			x: 7.5d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -3076,8 +3083,8 @@
 				item: { count: 1, id: "powah:energizing_rod_starter" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 7.0d
+			x: -4.5d
+			y: 11.5d
 		}
 		{
 			dependencies: [
@@ -3103,8 +3110,8 @@
 				item: { count: 1, id: "powah:energizing_rod_basic" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 8.0d
+			x: -4.5d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -3130,8 +3137,8 @@
 				item: { count: 1, id: "powah:energizing_rod_hardened" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 9.0d
+			x: -4.5d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -3157,8 +3164,8 @@
 				item: { count: 1, id: "powah:energizing_rod_blazing" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 10.0d
+			x: -4.5d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -3184,8 +3191,8 @@
 				item: { count: 1, id: "powah:energizing_rod_niotic" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 11.0d
+			x: -4.5d
+			y: 15.5d
 		}
 		{
 			dependencies: [
@@ -3211,8 +3218,8 @@
 				item: { count: 1, id: "powah:energizing_rod_spirited" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 12.0d
+			x: -4.5d
+			y: 16.5d
 		}
 		{
 			dependencies: [
@@ -3239,26 +3246,8 @@
 				item: { count: 1, id: "powah:energizing_rod_nitro" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 13.0d
-		}
-		{
-			id: "08245411AFDB63DB"
-			invisible: true
-			optional: true
-			shape: "circle"
-			tasks: [
-				{
-					id: "09C7E50E7E13C53C"
-					type: "checkmark"
-				}
-				{
-					id: "3282910297C28795"
-					type: "checkmark"
-				}
-			]
-			x: 0.0d
-			y: -2.0d
+			x: -4.5d
+			y: 17.5d
 		}
 	]
 }

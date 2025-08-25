@@ -57,8 +57,6 @@
 		ticksPerDamage = 2
 		#Item names that can not be repaired. Regular expressions are allowed.
 		itemBlacklist = ["minecraft:stick"]
-		#The 1/x chance the Blood Chest should add random bad enchants with a small chance to repairing items. Disabled by setting to a negative value.
-		randomBadEnchantsChance = 10000
 		#The amount Blood mB required for repairing one damage value.
 		mBPerDamage = 5
 		#If the Blood Chest should add random bad enchants with a small chance to repairing items.
@@ -296,17 +294,13 @@
 		#The 1/X chance that an actual spirit will spawn when doing actions like mining with the Vengeance Pickaxe.
 		nonDegradedSpawnChance = 5
 		#The area in which the spawn limit will be checked on each spawn attempt.
-		spawnLimitArea = 24
+		spawnLimitArea = 32
 		#The blacklisted entity spirits, by entity name. Regular expressions are allowed.
 		entityBlacklist = ["evilcraft:vengeance_spirit", "evilcraft:controlled_zombie", "evilcraft:werewolf", "minecraft:ender_dragon", "farmingforblockheads:merchant"]
 		#Whether vengeance spirits should always be visible in creative mode.
 		alwaysVisibleInCreative = false
 		#The maximum amount of vengeance spirits naturally spawnable in the spawnLimitArea.
-		spawnLimit = 2
-
-	[mob.werewolf]
-		#If villagers struck by lightning should have a 50% chance of becoming a werewolf villager
-		convertOnLightning = true
+		spawnLimit = 5
 
 	[entity.lightning_bomb_primed]
 		#The amount of ticks (on average), this bomb should tick before explosion.

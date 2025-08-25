@@ -6,7 +6,7 @@
 	#Looting enchant will increase drop change
 	applyLooting = true
 	#Allow fake players (machines) to get trophy drops
-	allowFakePlayer = false
+	allowFakePlayer = true
 	#Drop chance for trophies when a player is killed by a player.
 	#Range: 0.0 ~ 1.0
 	dropChancePlayers = 1.0

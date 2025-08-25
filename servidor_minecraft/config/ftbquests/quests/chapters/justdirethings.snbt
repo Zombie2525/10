@@ -7,7 +7,7 @@
 		id: "justdirethings:fuel_canister"
 	}
 	id: "4EAAE0CEB26378A6"
-	order_index: 2
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -23,7 +23,7 @@
 				id: "3AC95E8DC4229D17"
 				type: "checkmark"
 			}]
-			x: 0.0d
+			x: -2.5d
 			y: 0.0d
 		}
 		{
@@ -51,7 +51,7 @@
 				item: { count: 1, id: "justdirethings:gooblock_tier1" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: -0.5d
 			y: 0.0d
 		}
 		{
@@ -80,7 +80,7 @@
 				item: { count: 1, id: "justdirethings:gooblock_tier2" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -2.5d
 			y: 2.0d
 		}
 		{
@@ -109,7 +109,7 @@
 				item: { count: 1, id: "justdirethings:gooblock_tier3" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -4.5d
 			y: 0.0d
 		}
 		{
@@ -138,7 +138,7 @@
 				item: { count: 1, id: "justdirethings:gooblock_tier4" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -2.5d
 			y: -2.0d
 		}
 		{
@@ -159,9 +159,9 @@
 					type: "item"
 				}
 				{
-					id: "111E2F330103F1CF"
+					id: "6149A5BEBAF48638"
 					type: "xp"
-					xp: 100
+					xp: 10
 				}
 			]
 			tasks: [
@@ -176,7 +176,7 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
+			x: 0.5d
 			y: 1.0d
 		}
 		{
@@ -197,9 +197,9 @@
 					type: "item"
 				}
 				{
-					id: "6A4D350918EED3B4"
+					id: "641C5A601269AB28"
 					type: "xp"
-					xp: 100
+					xp: 10
 				}
 			]
 			tasks: [
@@ -214,7 +214,7 @@
 					type: "item"
 				}
 			]
-			x: -1.0d
+			x: -3.5d
 			y: 3.0d
 		}
 		{
@@ -232,9 +232,9 @@
 					type: "item"
 				}
 				{
-					id: "0B50AB907638F3BD"
+					id: "370BADAB44E9D07F"
 					type: "xp"
-					xp: 100
+					xp: 10
 				}
 			]
 			tasks: [{
@@ -242,7 +242,7 @@
 				item: { count: 1, id: "justdirethings:celestigem" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -5.5d
 			y: -1.0d
 		}
 		{
@@ -270,7 +270,7 @@
 				item: { count: 1, id: "justdirethings:coal_t1" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 0.5d
 			y: -1.0d
 		}
 		{
@@ -301,7 +301,7 @@
 				item: { count: 1, id: "justdirethings:coal_t2" }
 				type: "item"
 			}]
-			x: 1.0d
+			x: -1.5d
 			y: 3.0d
 		}
 		{
@@ -332,7 +332,7 @@
 				item: { count: 1, id: "justdirethings:coal_t3" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -5.5d
 			y: 1.0d
 		}
 		{
@@ -353,9 +353,9 @@
 					type: "item"
 				}
 				{
-					id: "53A139C6721DBE8B"
+					id: "1647D19C218E8762"
 					type: "xp"
-					xp: 100
+					xp: 10
 				}
 			]
 			tasks: [
@@ -370,7 +370,7 @@
 					type: "item"
 				}
 			]
-			x: 1.0d
+			x: -1.5d
 			y: -3.0d
 		}
 		{
@@ -401,7 +401,7 @@
 				item: { count: 1, id: "justdirethings:coal_t4" }
 				type: "item"
 			}]
-			x: -1.0d
+			x: -3.5d
 			y: -3.0d
 		}
 		{
@@ -411,7 +411,7 @@
 				id: "665A5DFA6270ADA6"
 				type: "checkmark"
 			}]
-			x: 5.0d
+			x: 2.5d
 			y: 0.0d
 		}
 		{
@@ -431,7 +431,7 @@
 				item: { count: 1, id: "justdirethings:blockbreakert1" }
 				type: "item"
 			}]
-			x: 6.5d
+			x: 4.0d
 			y: -0.5d
 		}
 		{
@@ -451,7 +451,7 @@
 				item: { count: 1, id: "justdirethings:blockplacert1" }
 				type: "item"
 			}]
-			x: 6.5d
+			x: 4.0d
 			y: 0.5d
 		}
 		{
@@ -471,7 +471,7 @@
 				item: { count: 1, id: "justdirethings:clickert1" }
 				type: "item"
 			}]
-			x: 7.0d
+			x: 4.5d
 			y: 0.0d
 		}
 		{
@@ -491,7 +491,7 @@
 				item: { count: 1, id: "justdirethings:sensort1" }
 				type: "item"
 			}]
-			x: 7.0d
+			x: 4.5d
 			y: -1.0d
 		}
 		{
@@ -511,7 +511,7 @@
 				item: { count: 1, id: "justdirethings:droppert1" }
 				type: "item"
 			}]
-			x: 7.0d
+			x: 4.5d
 			y: 1.0d
 		}
 		{
@@ -531,7 +531,7 @@
 				item: { count: 1, id: "justdirethings:fluidplacert1" }
 				type: "item"
 			}]
-			x: 7.5d
+			x: 5.0d
 			y: -0.5d
 		}
 		{
@@ -551,7 +551,7 @@
 				item: { count: 1, id: "justdirethings:fluidcollectort1" }
 				type: "item"
 			}]
-			x: 7.5d
+			x: 5.0d
 			y: 0.5d
 		}
 		{
@@ -571,7 +571,7 @@
 				item: { count: 1, id: "justdirethings:generatorfluidt1" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 5.5d
 			y: 1.0d
 		}
 		{
@@ -591,7 +591,7 @@
 				item: { count: 1, id: "justdirethings:generatort1" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 5.5d
 			y: -1.0d
 		}
 		{
@@ -611,7 +611,7 @@
 				item: { count: 1, id: "justdirethings:itemcollector" }
 				type: "item"
 			}]
-			x: -8.5d
+			x: -11.0d
 			y: 0.5d
 		}
 		{
@@ -631,7 +631,7 @@
 				item: { count: 1, id: "justdirethings:playeraccessor" }
 				type: "item"
 			}]
-			x: -8.5d
+			x: -11.0d
 			y: -0.5d
 		}
 		{
@@ -651,7 +651,7 @@
 				item: { count: 1, id: "justdirethings:blockswappert1" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 5.5d
 			y: 0.0d
 		}
 		{
@@ -671,7 +671,7 @@
 				item: { count: 1, id: "justdirethings:energytransmitter" }
 				type: "item"
 			}]
-			x: -9.0d
+			x: -11.5d
 			y: 0.0d
 		}
 		{
@@ -682,7 +682,7 @@
 				id: "67B21CF59C3D02E5"
 				type: "checkmark"
 			}]
-			x: -5.0d
+			x: -7.5d
 			y: 0.0d
 		}
 		{
@@ -702,7 +702,7 @@
 				item: { count: 1, id: "justdirethings:blockbreakert2" }
 				type: "item"
 			}]
-			x: -6.5d
+			x: -9.0d
 			y: -0.5d
 		}
 		{
@@ -722,7 +722,7 @@
 				item: { count: 1, id: "justdirethings:blockplacert2" }
 				type: "item"
 			}]
-			x: -6.5d
+			x: -9.0d
 			y: 0.5d
 		}
 		{
@@ -742,7 +742,7 @@
 				item: { count: 1, id: "justdirethings:clickert2" }
 				type: "item"
 			}]
-			x: -7.0d
+			x: -9.5d
 			y: 0.0d
 		}
 		{
@@ -763,7 +763,7 @@
 				item: { count: 1, id: "justdirethings:sensort2" }
 				type: "item"
 			}]
-			x: -7.0d
+			x: -9.5d
 			y: -1.0d
 		}
 		{
@@ -783,7 +783,7 @@
 				item: { count: 1, id: "justdirethings:droppert2" }
 				type: "item"
 			}]
-			x: -7.0d
+			x: -9.5d
 			y: 1.0d
 		}
 		{
@@ -803,7 +803,7 @@
 				item: { count: 1, id: "justdirethings:fluidplacert2" }
 				type: "item"
 			}]
-			x: -7.5d
+			x: -10.0d
 			y: -0.5d
 		}
 		{
@@ -823,7 +823,7 @@
 				item: { count: 1, id: "justdirethings:fluidcollectort2" }
 				type: "item"
 			}]
-			x: -7.5d
+			x: -10.0d
 			y: 0.5d
 		}
 		{
@@ -843,7 +843,7 @@
 				item: { count: 1, id: "justdirethings:blockswappert2" }
 				type: "item"
 			}]
-			x: -8.0d
+			x: -10.5d
 			y: 0.0d
 		}
 		{
@@ -853,7 +853,7 @@
 				id: "5DD919AF75C92C8A"
 				type: "checkmark"
 			}]
-			x: -5.0d
+			x: -7.5d
 			y: 3.5d
 		}
 		{
@@ -863,7 +863,7 @@
 				id: "366CA7D53571A552"
 				type: "checkmark"
 			}]
-			x: 5.0d
+			x: 2.5d
 			y: -3.5d
 		}
 		{
@@ -873,7 +873,7 @@
 				id: "7197FBBA21C0F94A"
 				type: "checkmark"
 			}]
-			x: 5.0d
+			x: 2.5d
 			y: 3.5d
 		}
 		{
@@ -893,7 +893,7 @@
 				item: { count: 1, id: "justdirethings:blazegold_sword" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -8.5d
 			y: 5.0d
 		}
 		{
@@ -919,7 +919,7 @@
 				item: { count: 1, id: "justdirethings:celestigem_sword" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -6.5d
 			y: 5.0d
 		}
 		{
@@ -945,7 +945,7 @@
 				item: { count: 1, id: "justdirethings:eclipsealloy_sword" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -4.5d
 			y: 5.0d
 		}
 		{
@@ -965,7 +965,7 @@
 				item: { count: 1, id: "justdirethings:ferricore_sword" }
 				type: "item"
 			}]
-			x: -8.0d
+			x: -10.5d
 			y: 5.0d
 		}
 		{
@@ -985,7 +985,7 @@
 				item: { count: 1, id: "justdirethings:ferricore_pickaxe" }
 				type: "item"
 			}]
-			x: -8.5d
+			x: -11.0d
 			y: 5.5d
 		}
 		{
@@ -1005,7 +1005,7 @@
 				item: { count: 1, id: "justdirethings:ferricore_axe" }
 				type: "item"
 			}]
-			x: -7.5d
+			x: -10.0d
 			y: 5.5d
 		}
 		{
@@ -1025,7 +1025,7 @@
 				item: { count: 1, id: "justdirethings:ferricore_shovel" }
 				type: "item"
 			}]
-			x: -8.0d
+			x: -10.5d
 			y: 6.0d
 		}
 		{
@@ -1045,7 +1045,7 @@
 				item: { count: 1, id: "justdirethings:ferricore_hoe" }
 				type: "item"
 			}]
-			x: -8.5d
+			x: -11.0d
 			y: 6.5d
 		}
 		{
@@ -1065,7 +1065,7 @@
 				item: { count: 1, id: "justdirethings:blazegold_pickaxe" }
 				type: "item"
 			}]
-			x: -6.5d
+			x: -9.0d
 			y: 5.5d
 		}
 		{
@@ -1085,7 +1085,7 @@
 				item: { count: 1, id: "justdirethings:blazegold_axe" }
 				type: "item"
 			}]
-			x: -5.5d
+			x: -8.0d
 			y: 5.5d
 		}
 		{
@@ -1105,7 +1105,7 @@
 				item: { count: 1, id: "justdirethings:blazegold_shovel" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -8.5d
 			y: 6.0d
 		}
 		{
@@ -1125,7 +1125,7 @@
 				item: { count: 1, id: "justdirethings:blazegold_hoe" }
 				type: "item"
 			}]
-			x: -6.5d
+			x: -9.0d
 			y: 6.5d
 		}
 		{
@@ -1151,7 +1151,7 @@
 				item: { count: 1, id: "justdirethings:celestigem_pickaxe" }
 				type: "item"
 			}]
-			x: -4.5d
+			x: -7.0d
 			y: 5.5d
 		}
 		{
@@ -1177,7 +1177,7 @@
 				item: { count: 1, id: "justdirethings:celestigem_axe" }
 				type: "item"
 			}]
-			x: -3.5d
+			x: -6.0d
 			y: 5.5d
 		}
 		{
@@ -1203,7 +1203,7 @@
 				item: { count: 1, id: "justdirethings:celestigem_shovel" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -6.5d
 			y: 6.0d
 		}
 		{
@@ -1229,7 +1229,7 @@
 				item: { count: 1, id: "justdirethings:celestigem_hoe" }
 				type: "item"
 			}]
-			x: -4.5d
+			x: -7.0d
 			y: 6.5d
 		}
 		{
@@ -1255,7 +1255,7 @@
 				item: { count: 1, id: "justdirethings:celestigem_paxel" }
 				type: "item"
 			}]
-			x: -3.5d
+			x: -6.0d
 			y: 6.5d
 		}
 		{
@@ -1281,7 +1281,7 @@
 				item: { count: 1, id: "justdirethings:eclipsealloy_pickaxe" }
 				type: "item"
 			}]
-			x: -2.5d
+			x: -5.0d
 			y: 5.5d
 		}
 		{
@@ -1307,7 +1307,7 @@
 				item: { count: 1, id: "justdirethings:eclipsealloy_axe" }
 				type: "item"
 			}]
-			x: -1.5d
+			x: -4.0d
 			y: 5.5d
 		}
 		{
@@ -1333,7 +1333,7 @@
 				item: { count: 1, id: "justdirethings:eclipsealloy_shovel" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -4.5d
 			y: 6.0d
 		}
 		{
@@ -1359,7 +1359,7 @@
 				item: { count: 1, id: "justdirethings:eclipsealloy_hoe" }
 				type: "item"
 			}]
-			x: -2.5d
+			x: -5.0d
 			y: 6.5d
 		}
 		{
@@ -1385,7 +1385,7 @@
 				item: { count: 1, id: "justdirethings:eclipsealloy_paxel" }
 				type: "item"
 			}]
-			x: -1.5d
+			x: -4.0d
 			y: 6.5d
 		}
 		{
@@ -1405,7 +1405,7 @@
 				item: { count: 1, id: "justdirethings:ferricore_helmet" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: -0.5d
 			y: 5.0d
 		}
 		{
@@ -1425,7 +1425,7 @@
 				item: { count: 1, id: "justdirethings:ferricore_chestplate" }
 				type: "item"
 			}]
-			x: 1.5d
+			x: -1.0d
 			y: 5.5d
 		}
 		{
@@ -1445,7 +1445,7 @@
 				item: { count: 1, id: "justdirethings:ferricore_leggings" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 0.0d
 			y: 5.5d
 		}
 		{
@@ -1465,7 +1465,7 @@
 				item: { count: 1, id: "justdirethings:ferricore_boots" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: -0.5d
 			y: 6.0d
 		}
 		{
@@ -1485,7 +1485,7 @@
 				item: { count: 1, id: "justdirethings:blazegold_helmet" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 1.5d
 			y: 5.0d
 		}
 		{
@@ -1505,7 +1505,7 @@
 				item: { count: 1, id: "justdirethings:blazegold_chestplate" }
 				type: "item"
 			}]
-			x: 3.5d
+			x: 1.0d
 			y: 5.5d
 		}
 		{
@@ -1525,7 +1525,7 @@
 				item: { count: 1, id: "justdirethings:blazegold_leggings" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 2.0d
 			y: 5.5d
 		}
 		{
@@ -1545,7 +1545,7 @@
 				item: { count: 1, id: "justdirethings:blazegold_boots" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 1.5d
 			y: 6.0d
 		}
 		{
@@ -1571,7 +1571,7 @@
 				item: { count: 1, id: "justdirethings:celestigem_helmet" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 3.5d
 			y: 5.0d
 		}
 		{
@@ -1597,7 +1597,7 @@
 				item: { count: 1, id: "justdirethings:celestigem_chestplate" }
 				type: "item"
 			}]
-			x: 5.5d
+			x: 3.0d
 			y: 5.5d
 		}
 		{
@@ -1623,7 +1623,7 @@
 				item: { count: 1, id: "justdirethings:celestigem_leggings" }
 				type: "item"
 			}]
-			x: 6.5d
+			x: 4.0d
 			y: 5.5d
 		}
 		{
@@ -1649,7 +1649,7 @@
 				item: { count: 1, id: "justdirethings:celestigem_boots" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 3.5d
 			y: 6.0d
 		}
 		{
@@ -1669,7 +1669,7 @@
 				item: { count: 1, id: "justdirethings:fuel_canister" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 2.5d
 			y: -7.5d
 		}
 		{
@@ -1695,7 +1695,7 @@
 				item: { count: 1, id: "justdirethings:pocket_generator" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 1.5d
 			y: -7.5d
 		}
 		{
@@ -1715,7 +1715,7 @@
 				item: { count: 1, id: "justdirethings:fluid_canister" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 2.5d
 			y: -6.5d
 		}
 		{
@@ -1735,7 +1735,7 @@
 				item: { count: 1, id: "justdirethings:blazejet_wand" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -8.5d
 			y: 7.0d
 		}
 		{
@@ -1761,7 +1761,7 @@
 				item: { count: 1, id: "justdirethings:voidshift_wand" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -6.5d
 			y: 7.0d
 		}
 		{
@@ -1787,7 +1787,7 @@
 				item: { count: 1, id: "justdirethings:eclipsegate_wand" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -4.5d
 			y: 7.0d
 		}
 		{
@@ -1813,7 +1813,7 @@
 				item: { count: 1, id: "justdirethings:portalgun" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 2.0d
 			y: -7.0d
 		}
 		{
@@ -1839,7 +1839,7 @@
 				item: { count: 1, id: "justdirethings:portalgun_v2" }
 				type: "item"
 			}]
-			x: 5.5d
+			x: 3.0d
 			y: -7.0d
 		}
 		{
@@ -1859,7 +1859,7 @@
 				item: { count: 1, id: "justdirethings:creaturecatcher" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 3.5d
 			y: -7.5d
 		}
 		{
@@ -1879,7 +1879,7 @@
 				item: { count: 1, id: "justdirethings:machinesettingscopier" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 2.0d
 			y: -6.0d
 		}
 		{
@@ -1899,7 +1899,7 @@
 				item: { count: 1, id: "justdirethings:ferricore_wrench" }
 				type: "item"
 			}]
-			x: 5.5d
+			x: 3.0d
 			y: -6.0d
 		}
 		{
@@ -1919,7 +1919,7 @@
 				item: { count: 1, id: "justdirethings:totem_of_death_recall" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 2.5d
 			y: -5.5d
 		}
 		{
@@ -1929,7 +1929,7 @@
 				id: "5AB4103FF540ABB4"
 				type: "checkmark"
 			}]
-			x: -5.0d
+			x: -7.5d
 			y: -3.5d
 		}
 		{
@@ -1958,7 +1958,7 @@
 				item: { count: 1, id: "justdirethings:polymorphic_fluid_bucket" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: -7.5d
 			y: -5.5d
 		}
 		{
@@ -1989,7 +1989,7 @@
 				item: { count: 1, id: "justdirethings:refined_t2_fluid_bucket" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -6.5d
 			y: -6.5d
 		}
 		{
@@ -2020,7 +2020,7 @@
 				item: { count: 1, id: "justdirethings:refined_t3_fluid_bucket" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: -7.5d
 			y: -6.5d
 		}
 		{
@@ -2051,7 +2051,7 @@
 				item: { count: 1, id: "justdirethings:refined_t4_fluid_bucket" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: -7.5d
 			y: -7.5d
 		}
 		{
@@ -2080,39 +2080,31 @@
 				item: { count: 1, id: "justdirethings:portal_fluid_bucket" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -8.5d
 			y: -6.5d
 		}
 		{
 			dependencies: ["7305EE0F7D73C231"]
 			hide_dependent_lines: true
-			icon: {
-				id: "justdirethings:ferricore_pickaxe"
-			}
 			id: "4E9B35DCA018FD42"
 			shape: "diamond"
 			tasks: [{
-				id: "3CAD6AD06BE4C3D3"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
+				id: "074A8ECEF1BEF555"
+				type: "checkmark"
 			}]
-			x: -1.5d
+			x: -4.0d
 			y: 9.5d
 		}
 		{
 			dependencies: ["7305EE0F7D73C231"]
 			hide_dependent_lines: true
-			icon: {
-				id: "justdirethings:ferricore_chestplate"
-			}
 			id: "67B87570C340C243"
 			shape: "diamond"
 			tasks: [{
-				id: "40B39896B6CD41C6"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:armors)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
+				id: "1296D174F6B8F4D1"
+				type: "checkmark"
 			}]
-			x: 1.5d
+			x: -1.0d
 			y: 9.5d
 		}
 		{
@@ -2138,7 +2130,7 @@
 				item: { count: 1, id: "justdirethings:eclipsealloy_chestplate" }
 				type: "item"
 			}]
-			x: 7.5d
+			x: 5.0d
 			y: 5.5d
 		}
 		{
@@ -2164,7 +2156,7 @@
 				item: { count: 1, id: "justdirethings:eclipsealloy_helmet" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 5.5d
 			y: 5.0d
 		}
 		{
@@ -2190,7 +2182,7 @@
 				item: { count: 1, id: "justdirethings:eclipsealloy_leggings" }
 				type: "item"
 			}]
-			x: 8.5d
+			x: 6.0d
 			y: 5.5d
 		}
 		{
@@ -2216,7 +2208,7 @@
 				item: { count: 1, id: "justdirethings:eclipsealloy_boots" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 5.5d
 			y: 6.0d
 		}
 		{
@@ -2249,7 +2241,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_blank" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -2.5d
 			y: 8.0d
 		}
 		{
@@ -2266,7 +2258,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_mobscanner" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -4.5d
 			y: 10.0d
 		}
 		{
@@ -2283,7 +2275,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_oreminer" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -4.5d
 			y: 9.0d
 		}
 		{
@@ -2300,7 +2292,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_lawnmower" }
 				type: "item"
 			}]
-			x: -2.5d
+			x: -5.0d
 			y: 9.5d
 		}
 		{
@@ -2317,7 +2309,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_skysweeper" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -5.5d
 			y: 9.0d
 		}
 		{
@@ -2334,7 +2326,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_treefeller" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -5.5d
 			y: 10.0d
 		}
 		{
@@ -2351,7 +2343,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_leafbreaker" }
 				type: "item"
 			}]
-			x: -2.5d
+			x: -5.0d
 			y: 10.5d
 		}
 		{
@@ -2368,7 +2360,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_smelter" }
 				type: "item"
 			}]
-			x: -2.5d
+			x: -5.0d
 			y: 8.5d
 		}
 		{
@@ -2385,7 +2377,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_smoker" }
 				type: "item"
 			}]
-			x: -4.5d
+			x: -7.0d
 			y: 8.5d
 		}
 		{
@@ -2402,7 +2394,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_hammer" }
 				type: "item"
 			}]
-			x: -3.5d
+			x: -6.0d
 			y: 9.5d
 		}
 		{
@@ -2419,7 +2411,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_cauterizewounds" }
 				type: "item"
 			}]
-			x: -4.5d
+			x: -7.0d
 			y: 10.5d
 		}
 		{
@@ -2436,7 +2428,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_dropteleport" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -6.5d
 			y: 10.0d
 		}
 		{
@@ -2453,7 +2445,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_orexray" }
 				type: "item"
 			}]
-			x: -4.5d
+			x: -7.0d
 			y: 9.5d
 		}
 		{
@@ -2470,7 +2462,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_glowing" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: -7.5d
 			y: 10.0d
 		}
 		{
@@ -2487,7 +2479,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_instabreak" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: -7.5d
 			y: 9.0d
 		}
 		{
@@ -2504,7 +2496,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_runspeed" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: -0.5d
 			y: 9.0d
 		}
 		{
@@ -2521,7 +2513,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_walkspeed" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: -0.5d
 			y: 10.0d
 		}
 		{
@@ -2538,7 +2530,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_stepheight" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 0.0d
 			y: 9.5d
 		}
 		{
@@ -2555,7 +2547,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_jumpboost" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 0.0d
 			y: 8.5d
 		}
 		{
@@ -2572,7 +2564,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_mindfog" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 0.0d
 			y: 10.5d
 		}
 		{
@@ -2589,7 +2581,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_invulnerability" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 0.5d
 			y: 10.0d
 		}
 		{
@@ -2606,7 +2598,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_swimspeed" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 0.5d
 			y: 9.0d
 		}
 		{
@@ -2623,7 +2615,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_groundstomp" }
 				type: "item"
 			}]
-			x: 3.5d
+			x: 1.0d
 			y: 10.5d
 		}
 		{
@@ -2640,7 +2632,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_extinguish" }
 				type: "item"
 			}]
-			x: 3.5d
+			x: 1.0d
 			y: 8.5d
 		}
 		{
@@ -2657,7 +2649,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_stupefy" }
 				type: "item"
 			}]
-			x: 3.5d
+			x: 1.0d
 			y: 9.5d
 		}
 		{
@@ -2674,7 +2666,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_elytra" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 1.5d
 			y: 10.0d
 		}
 		{
@@ -2691,7 +2683,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_negatefalldamage" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 1.5d
 			y: 9.0d
 		}
 		{
@@ -2708,7 +2700,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_nightvision" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 2.0d
 			y: 10.5d
 		}
 		{
@@ -2725,7 +2717,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_decoy" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 2.0d
 			y: 9.5d
 		}
 		{
@@ -2742,7 +2734,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_earthquake" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 2.0d
 			y: 8.5d
 		}
 		{
@@ -2759,7 +2751,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_noai" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 2.5d
 			y: 10.0d
 		}
 		{
@@ -2776,7 +2768,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_flight" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 2.5d
 			y: 9.0d
 		}
 		{
@@ -2793,7 +2785,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_lavaimmunity" }
 				type: "item"
 			}]
-			x: 5.5d
+			x: 3.0d
 			y: 10.5d
 		}
 		{
@@ -2810,7 +2802,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_phase" }
 				type: "item"
 			}]
-			x: 5.5d
+			x: 3.0d
 			y: 8.5d
 		}
 		{
@@ -2827,7 +2819,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_deathprotection" }
 				type: "item"
 			}]
-			x: 5.5d
+			x: 3.0d
 			y: 9.5d
 		}
 		{
@@ -2844,7 +2836,7 @@
 				item: { count: 1, id: "justdirethings:upgrade_debuffremover" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 3.5d
 			y: 9.0d
 		}
 		{
@@ -2853,7 +2845,6 @@
 				"5BD5737703F3F077"
 			]
 			id: "49636B3C6E6D0C2A"
-			optional: true
 			rewards: [
 				{
 					count: 5
@@ -2876,7 +2867,7 @@
 				item: { count: 1, id: "justdirethings:template_ferricore" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 3.5d
 			y: 10.0d
 		}
 		{
@@ -2906,7 +2897,7 @@
 				item: { count: 1, id: "justdirethings:template_blazegold" }
 				type: "item"
 			}]
-			x: 6.5d
+			x: 4.0d
 			y: 9.5d
 		}
 		{
@@ -2936,7 +2927,7 @@
 				item: { count: 1, id: "justdirethings:template_celestigem" }
 				type: "item"
 			}]
-			x: 6.5d
+			x: 4.0d
 			y: 8.5d
 		}
 		{
@@ -2966,7 +2957,7 @@
 				item: { count: 1, id: "justdirethings:template_eclipsealloy" }
 				type: "item"
 			}]
-			x: 6.5d
+			x: 4.0d
 			y: 10.5d
 		}
 		{
@@ -2993,26 +2984,8 @@
 					type: "checkmark"
 				}
 			]
-			x: -4.0d
+			x: -6.5d
 			y: 9.0d
-		}
-		{
-			id: "441F37A95AB66E6B"
-			invisible: true
-			optional: true
-			shape: "circle"
-			tasks: [
-				{
-					id: "19931057AAC1A03A"
-					type: "checkmark"
-				}
-				{
-					id: "03982D782B426ABB"
-					type: "checkmark"
-				}
-			]
-			x: 0.0d
-			y: 4.0d
 		}
 	]
 }

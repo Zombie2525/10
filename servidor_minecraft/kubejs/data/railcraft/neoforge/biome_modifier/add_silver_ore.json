@@ -1,3 +1,6 @@
 {
-  "type": "neoforge:none"
+  "type": "neoforge:none",
+  "biomes": "#minecraft:is_overworld",
+  "features": "railcraft:silver_ore",
+  "step": "underground_ores"
 }

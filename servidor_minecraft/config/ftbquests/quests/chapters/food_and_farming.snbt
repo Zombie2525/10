@@ -105,17 +105,18 @@
 			y: -5.5d
 		}
 	]
-	order_index: 1
+	order_index: 0
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
 		{
-			icon: {
-				id: "pamhc2trees:starfruititem"
-			}
-			icon_scale: 1.5d
 			id: "1827DEEA2DF1B144"
 			rewards: [
+				{
+					id: "28C108EC59F6E7D9"
+					type: "xp"
+					xp: 10
+				}
 				{
 					id: "2EFEA345691F570D"
 					item: {
@@ -124,18 +125,12 @@
 					}
 					type: "item"
 				}
-				{
-					id: "769A50AFA27134F2"
-					type: "xp"
-					xp: 10
-				}
 			]
 			shape: "square"
 			size: 1.5d
 			tasks: [{
-				id: "78D7794707E4BD83"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:crops)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
+				id: "07603A90CCCB3627"
+				type: "checkmark"
 			}]
 			x: 0.5d
 			y: 0.0d
@@ -170,9 +165,6 @@
 		}
 		{
 			dependencies: ["18EADBAFC932F864"]
-			icon: {
-				id: "minecraft:white_wool"
-			}
 			id: "3EA883C0BB7BD38F"
 			rewards: [
 				{
@@ -200,9 +192,6 @@
 		}
 		{
 			dependencies: ["2E9C035EEE7E5C34"]
-			icon: {
-				id: "minecraft:shears"
-			}
 			id: "18EADBAFC932F864"
 			rewards: [{
 				id: "68AA10BF3AA0408A"
@@ -210,8 +199,8 @@
 				xp: 10
 			}]
 			tasks: [{
-				id: "2725700B5EA1CD75"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools/shear)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "3A9869856B3E9D54"
+				item: { count: 1, id: "minecraft:shears" }
 				type: "item"
 			}]
 			x: 4.0d
@@ -222,17 +211,17 @@
 			id: "635620A03E3505BF"
 			rewards: [
 				{
+					id: "7914440DB4E0A801"
+					type: "xp"
+					xp: 10
+				}
+				{
 					id: "0B497B4A001CFFC0"
 					item: {
 						count: 1
 						id: "minecraft:leather"
 					}
 					type: "item"
-				}
-				{
-					id: "0A3A156D2D6F48F2"
-					type: "xp"
-					xp: 10
 				}
 			]
 			tasks: [{
@@ -257,15 +246,15 @@
 					type: "item"
 				}
 				{
+					id: "72142B51809511CF"
+					type: "xp"
+					xp: 100
+				}
+				{
 					exclude_from_claim_all: true
 					id: "4F333F2FC9C0A269"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "547FC038410FD238"
-					type: "xp"
-					xp: 100
 				}
 			]
 			shape: "rsquare"
@@ -335,38 +324,28 @@
 				item: { count: 1, id: "minecraft:egg" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 4.0d
 			y: 1.0d
 		}
 		{
 			dependencies: ["1D2EF12FD7FDD217"]
 			id: "1697CC05D08B388D"
-			rewards: [
-				{
-					id: "634BD1679C226F35"
-					item: {
-						count: 1
-						id: "pamhc2foodcore:friedchickenitem"
-					}
-					type: "item"
-				}
-				{
-					id: "551DA8AE385BDF12"
-					type: "xp"
-					xp: 10
-				}
-			]
+			rewards: [{
+				id: "7A84544510F1D4EE"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					count: 10L
-					id: "611CC8005150DC9B"
-					item: { count: 10, id: "minecraft:feather" }
+					id: "264B00606E5BE374"
+					item: { count: 1, id: "minecraft:feather" }
 					type: "item"
 				}
 				{
-					count: 5L
-					id: "0CAC6A36AC5A6708"
-					item: { count: 5, id: "minecraft:chicken" }
+					count: 3L
+					id: "763031D0E9F0850C"
+					item: { count: 1, id: "minecraft:chicken" }
 					type: "item"
 				}
 			]
@@ -375,7 +354,7 @@
 		}
 		{
 			icon: {
-				id: "minecraft:iron_hoe"
+				id: "minecraft:wooden_hoe"
 			}
 			id: "43021923E220CF68"
 			rewards: [
@@ -397,9 +376,8 @@
 			shape: "diamond"
 			size: 1.25d
 			tasks: [{
-				id: "323A434E1AF54408"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:hoes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
+				id: "78772A2785AE9DD2"
+				type: "checkmark"
 			}]
 			x: -1.5749999999999997d
 			y: 0.0d
@@ -409,11 +387,11 @@
 			id: "0A1C2A7A8617D3E4"
 			rewards: [
 				{
-					count: 3
+					count: 2
 					id: "6EE0FD0DCE6CEEDE"
 					item: {
 						count: 1
-						id: "minecraft:wheat_seeds"
+						id: "minecraft:bread"
 					}
 					type: "item"
 				}
@@ -454,6 +432,11 @@
 			id: "361DFDB1E1352D6B"
 			rewards: [
 				{
+					id: "2D2FC5CA58E15FD7"
+					type: "xp"
+					xp: 10
+				}
+				{
 					id: "193719E857969260"
 					item: {
 						count: 1
@@ -461,13 +444,9 @@
 					}
 					type: "item"
 				}
-				{
-					id: "4DA79EDA168E4CFA"
-					type: "xp"
-					xp: 10
-				}
 			]
 			tasks: [{
+				count: 10L
 				id: "6118A776B40507B7"
 				item: { count: 1, id: "minecraft:sugar_cane" }
 				type: "item"
@@ -505,15 +484,15 @@
 					type: "item"
 				}
 				{
+					id: "18610A9BCEA465F8"
+					type: "xp"
+					xp: 10
+				}
+				{
 					exclude_from_claim_all: true
 					id: "40EA2F27F5E8685D"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "459BD2969BBA3578"
-					type: "xp"
-					xp: 10
 				}
 			]
 			tasks: [{
@@ -526,7 +505,6 @@
 		}
 		{
 			dependencies: ["58D5BD3106BFD94A"]
-			hide_dependent_lines: true
 			id: "28C9EDBF6607E180"
 			rewards: [
 				{
@@ -556,6 +534,7 @@
 		}
 		{
 			dependencies: ["28C9EDBF6607E180"]
+			hide_dependency_lines: true
 			id: "58495CFBF4F20CE9"
 			rewards: [
 				{
@@ -567,15 +546,15 @@
 					type: "item"
 				}
 				{
+					id: "1C499560DF40E2FC"
+					type: "xp"
+					xp: 10
+				}
+				{
 					exclude_from_claim_all: true
 					id: "22943343AA0140AF"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "27E1847753DE5130"
-					type: "xp"
-					xp: 10
 				}
 			]
 			shape: "diamond"
@@ -585,11 +564,12 @@
 				item: { count: 1, id: "cookingforblockheads:cabinet" }
 				type: "item"
 			}]
-			x: 1.5d
+			x: 0.5d
 			y: 8.5d
 		}
 		{
 			dependencies: ["28C9EDBF6607E180"]
+			hide_dependency_lines: true
 			id: "37CA6F9F0226F10E"
 			rewards: [
 				{
@@ -601,15 +581,15 @@
 					type: "item"
 				}
 				{
+					id: "0B13ECD292D7D073"
+					type: "xp"
+					xp: 10
+				}
+				{
 					exclude_from_claim_all: true
 					id: "17F23B9B65A62413"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "799F38EE6543C226"
-					type: "xp"
-					xp: 10
 				}
 			]
 			shape: "diamond"
@@ -624,6 +604,7 @@
 		}
 		{
 			dependencies: ["28C9EDBF6607E180"]
+			hide_dependency_lines: true
 			id: "47764EFC822E462A"
 			rewards: [
 				{
@@ -635,15 +616,15 @@
 					type: "item"
 				}
 				{
+					id: "2390EE9B8E964CCA"
+					type: "xp"
+					xp: 10
+				}
+				{
 					exclude_from_claim_all: true
 					id: "285E04C219E15BE2"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "2D3D6433753DF10E"
-					type: "xp"
-					xp: 10
 				}
 			]
 			shape: "diamond"
@@ -656,7 +637,6 @@
 			y: 9.5d
 		}
 		{
-			dependencies: ["28C9EDBF6607E180"]
 			id: "1515B32545F51266"
 			rewards: [
 				{
@@ -669,15 +649,15 @@
 					type: "item"
 				}
 				{
+					id: "19945E72467070D2"
+					type: "xp"
+					xp: 10
+				}
+				{
 					exclude_from_claim_all: true
 					id: "3F871506DE4A9E43"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "0EE6D40390D4DE5D"
-					type: "xp"
-					xp: 10
 				}
 			]
 			shape: "diamond"
@@ -690,7 +670,6 @@
 			y: 9.0d
 		}
 		{
-			dependencies: ["28C9EDBF6607E180"]
 			id: "13AFCD3B6F62B986"
 			optional: true
 			rewards: [
@@ -704,15 +683,15 @@
 					type: "item"
 				}
 				{
+					id: "7F98CDC2EA641EF7"
+					type: "xp"
+					xp: 10
+				}
+				{
 					exclude_from_claim_all: true
 					id: "7D1016D39347DFD3"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "25BB1334DA126634"
-					type: "xp"
-					xp: 10
 				}
 			]
 			shape: "diamond"
@@ -746,15 +725,15 @@
 			id: "16D0F1E3CEB60ABF"
 			rewards: [
 				{
+					id: "03247C933128C015"
+					type: "xp"
+					xp: 10
+				}
+				{
 					exclude_from_claim_all: true
 					id: "1AD805EF5C994DC3"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "74838CE200710384"
-					type: "xp"
-					xp: 25
 				}
 			]
 			tasks: [{
@@ -770,15 +749,15 @@
 			id: "0A64D0937A5F7513"
 			rewards: [
 				{
+					id: "7664E2CF599F9E96"
+					type: "xp"
+					xp: 10
+				}
+				{
 					exclude_from_claim_all: true
 					id: "0F864C7AA00CC8A9"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "09F6E87A831DE09C"
-					type: "xp"
-					xp: 50
 				}
 			]
 			tasks: [{
@@ -794,15 +773,15 @@
 			id: "511562EA5811306B"
 			rewards: [
 				{
+					id: "3F6CD2A029F5FC11"
+					type: "xp"
+					xp: 10
+				}
+				{
 					exclude_from_claim_all: true
 					id: "7DF9A8B80872B680"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "05FD1A2F08E58F60"
-					type: "xp"
-					xp: 100
 				}
 			]
 			tasks: [{
@@ -818,15 +797,15 @@
 			id: "5A1DCD6C7F712A78"
 			rewards: [
 				{
+					id: "4000D1222D505757"
+					type: "xp"
+					xp: 10
+				}
+				{
 					exclude_from_claim_all: true
 					id: "5A0D21935AEB18B1"
 					table_id: 4196188979167302596L
 					type: "random"
-				}
-				{
-					id: "06BF09294ED115BC"
-					type: "xp"
-					xp: 250
 				}
 			]
 			tasks: [{
@@ -839,8 +818,8 @@
 		}
 		{
 			dependencies: [
+				"659A903F97F93BE2"
 				"1D48298525EEADC9"
-				"0A1C2A7A8617D3E4"
 			]
 			id: "0893EFCAC7031FEA"
 			rewards: [
@@ -853,15 +832,15 @@
 					type: "item"
 				}
 				{
+					id: "7F528DE479E680AE"
+					type: "xp"
+					xp: 100
+				}
+				{
 					exclude_from_claim_all: true
 					id: "688019DBD32BF755"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "67C04C8A891CB4DD"
-					type: "xp"
-					xp: 100
 				}
 			]
 			shape: "rsquare"
@@ -904,6 +883,7 @@
 		}
 		{
 			dependencies: ["28C9EDBF6607E180"]
+			hide_dependency_lines: true
 			id: "0EFF1AA37772156B"
 			rewards: [
 				{
@@ -915,15 +895,15 @@
 					type: "item"
 				}
 				{
+					id: "62FB77230F1D9F9B"
+					type: "xp"
+					xp: 10
+				}
+				{
 					exclude_from_claim_all: true
 					id: "139855B12BA13469"
 					table_id: 487623848494439020L
 					type: "random"
-				}
-				{
-					id: "7F38B63C5879EF11"
-					type: "xp"
-					xp: 10
 				}
 			]
 			shape: "diamond"
@@ -934,131 +914,6 @@
 			}]
 			x: -1.0d
 			y: 8.0d
-		}
-		{
-			id: "55C4824DAD905512"
-			invisible: true
-			optional: true
-			shape: "circle"
-			tasks: [
-				{
-					id: "5805158E69C05AED"
-					type: "checkmark"
-				}
-				{
-					id: "1D8904E53906D972"
-					type: "checkmark"
-				}
-			]
-			x: 0.5d
-			y: 2.0d
-		}
-		{
-			dependencies: ["28C9EDBF6607E180"]
-			icon: {
-				id: "cookingforblockheads:white_fridge"
-			}
-			id: "791AE62ACACBD5BA"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4C3114E267797DC4"
-					table_id: 487623848494439020L
-					type: "random"
-				}
-				{
-					id: "252681E3107767E7"
-					type: "xp"
-					xp: 10
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "669DEA201002793D"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cookingforblockheads:fridges)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: 0.5d
-			y: 8.5d
-		}
-		{
-			dependencies: ["28C9EDBF6607E180"]
-			id: "2786D5AC19163524"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "001D146FA176A7CE"
-					table_id: 5564196992594175882L
-					type: "random"
-				}
-				{
-					id: "3F16B93CAB0B6ECA"
-					type: "xp"
-					xp: 10
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "758CA2EB2C92A6AA"
-				item: { count: 1, id: "cookingforblockheads:white_oven" }
-				type: "item"
-			}]
-			x: -0.5d
-			y: 8.5d
-		}
-		{
-			dependencies: ["72717D1135486D7F"]
-			id: "56550CD12C681B0F"
-			rewards: [
-				{
-					id: "5BAD03B93921DAE9"
-					item: {
-						count: 1
-						id: "silentgear:flax_string"
-					}
-					type: "item"
-				}
-				{
-					id: "0D8DEA2CB39DB998"
-					type: "xp"
-					xp: 10
-				}
-			]
-			tasks: [{
-				id: "39856D5B1340F958"
-				item: { count: 1, id: "silentgear:flax_seeds" }
-				type: "item"
-			}]
-			x: -5.5d
-			y: -1.0d
-		}
-		{
-			dependencies: ["56550CD12C681B0F"]
-			id: "04D0543FE2820F64"
-			rewards: [
-				{
-					count: 3
-					id: "62205F6BB445FAD2"
-					item: {
-						count: 1
-						id: "silentgear:flax_seeds"
-					}
-					type: "item"
-				}
-				{
-					id: "380633A1C13A3B2C"
-					type: "xp"
-					xp: 10
-				}
-			]
-			tasks: [{
-				count: 3L
-				id: "6D9DE56C95427085"
-				item: { count: 1, id: "silentgear:flax_string" }
-				type: "item"
-			}]
-			x: -7.0d
-			y: -1.0d
 		}
 	]
 }

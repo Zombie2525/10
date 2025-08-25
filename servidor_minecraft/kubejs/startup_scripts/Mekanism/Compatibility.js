@@ -5,30 +5,29 @@
   Authored by EnigmaQuip
 
   if using existing dust, dust must be defined until kjs tag loading fixed
-  material at a minimum should have an ore associated with it at #c:ores/material
+  material at a minimum should have an ore associated with it at #forge:ores/material
 */
 
-global.mekStackAdditions = [
-  {material:'crimson_iron', color:'#fc9aad', makeDust: false},
-  {material:'azure_silver', color:'#e89ffc', makeDust: false}
-]
+global.mekStackAdditions = []
 
 // DO NOT EDIT BELOW THIS LINE
 
-const Chemical = Java.loadClass('mekanism.api.chemical.Chemical')
-const ChemicalBuilder = Java.loadClass('mekanism.api.chemical.ChemicalBuilder')
+const $Slurry = Java.loadClass('mekanism.api.chemical.slurry.Slurry')
+const $SlurryBuilder = Java.loadClass('mekanism.api.chemical.slurry.SlurryBuilder')
+const $Gas = Java.loadClass('mekanism.api.chemical.gas.Gas')
+const $GasBuilder = Java.loadClass('mekanism.api.chemical.gas.GasBuilder')
 
 StartupEvents.registry('item', allthemods => {
   const mekItems = ['clump', 'crystal', 'dirty_dust', 'shard']
   function mekStack(name, color) {
     mekItems.forEach(type => {
-      allthemods.create(`${name}_${type}`)
+      allthemods.create(`${type}_${name}`)
         .texture('layer0', 'mekanism:item/empty')
         .texture('layer1', `mekanism:item/${type}`)
         .texture('layer2', `mekanism:item/${type}_overlay`)
         .color(1, color)
-        .tag(`c:${type}s`)
-        .tag(`c:${type}s/${name}`)
+        .tag(`mekanism:${type}s`)
+        .tag(`mekanism:${type}s/${name}`)
     })
   }
   global.mekStackAdditions.forEach(entry => {
@@ -38,17 +37,21 @@ StartupEvents.registry('item', allthemods => {
         .texture('layer0', 'mekanism:item/empty')
         .texture('layer1', `mekanism:item/dust`)
         .color(1, entry.color)
-        .tag(`c:dusts`)
-        .tag(`c:dusts/${entry.material}`)
+        .tag(`forge:dusts`)
+        .tag(`forge:dusts/${entry.material}`)
     }
   })
 })
 
-StartupEvents.registry('mekanism:chemical', allthemods => {
-    global.mekStackAdditions.forEach(entry => {
-    allthemods.createCustom(`clean_${entry.material}`, () => Chemical(ChemicalBuilder.cleanSlurry().tint(Color.of(entry.color).getRgb()).ore(`c:ores/${entry.material}`)))
-    allthemods.createCustom(`dirty_${entry.material}`, () => Chemical(ChemicalBuilder.dirtySlurry().tint(Color.of(entry.color).getRgb()).ore(`c:ores/${entry.material}`)))
+StartupEvents.registry('mekanism:slurry', allthemods => {
+  global.mekStackAdditions.forEach(entry => {
+    allthemods.createCustom(`clean_${entry.material}`, () => $Slurry($SlurryBuilder.clean().ore(`forge:ores/${entry.material}`).tint(Color.of(entry.color).getRgbJS())))
+    allthemods.createCustom(`dirty_${entry.material}`, () => $Slurry($SlurryBuilder.dirty().ore(`forge:ores/${entry.material}`).tint(Color.of(entry.color).getRgbJS())))
+  })
 })
+
+StartupEvents.registry('mekanism:gas', allthemods => {
+  allthemods.createCustom(`neutron_gas`, () => $Gas($GasBuilder.builder()))
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.

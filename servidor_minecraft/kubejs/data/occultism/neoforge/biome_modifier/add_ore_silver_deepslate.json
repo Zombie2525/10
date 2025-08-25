@@ -1,3 +1,6 @@
 {
-  "type": "neoforge:none"
+  "type": "neoforge:none",
+  "biomes": "#minecraft:is_overworld",
+  "features": "occultism:ore_silver_deepslate",
+  "step": "underground_ores"
 }
