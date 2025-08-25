@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "57f15c193c0738df8b88e3384993effe"
+	name: "Mike_dfs#57f15c19"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		78910F1DA5FE3640: 1
+	}
+	started: {
+		11919EBB416B2BD0: 1756161046920L
+		78910F1DA5FE3640: 1756161046920L
+		730130CCF1CF5119: 1756161046920L
+		0000000000000001: 1756161046920L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
