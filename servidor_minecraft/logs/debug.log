@@ -13502,3 +13502,10 @@ java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.Backpac
 [25Aug2025 23:35:08.679] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [25Aug2025 23:35:08.719] [Server thread/DEBUG] [pneumaticcraft/]: 28 active Amadron offers to sync to clients
 [25Aug2025 23:40:08.683] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[25Aug2025 23:45:08.675] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[25Aug2025 23:50:08.680] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[25Aug2025 23:50:46.182] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[25Aug2025 23:50:46.183] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[25Aug2025 23:50:46.183] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[25Aug2025 23:50:46.183] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
+[25Aug2025 23:50:46.183] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.batchFastThreadLocalOnly: true
