@@ -13497,3 +13497,5 @@ java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.Backpac
 [25Aug2025 23:15:08.682] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [25Aug2025 23:15:08.687] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
 [25Aug2025 23:20:08.686] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[25Aug2025 23:25:08.679] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[25Aug2025 23:30:08.677] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
