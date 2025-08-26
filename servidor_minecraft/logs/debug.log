@@ -13541,3 +13541,7 @@ java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.Backpac
 [26Aug2025 01:57:03.285] [Server thread/DEBUG] [FTB Teams/]: team login event for 57f15c19-3c07-38df-8b88-e3384993effe sent
 [26Aug2025 01:57:03.287] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to Mike_dfs (57f15c19-3c07-38df-8b88-e3384993effe)
 [26Aug2025 01:59:01.092] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Aug2025 02:04:01.054] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Aug2025 02:04:01.074] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients
+[26Aug2025 02:04:03.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Mike_dfs
+[26Aug2025 02:09:01.051] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
