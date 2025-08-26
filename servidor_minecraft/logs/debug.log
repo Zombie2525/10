@@ -13686,3 +13686,7 @@ java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.Backpac
 [26Aug2025 01:18:16.179] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [26Aug2025 01:18:16.223] [Server thread/DEBUG] [pneumaticcraft/]: 29 active Amadron offers to sync to clients
 [26Aug2025 01:23:16.097] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Aug2025 01:28:16.087] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Aug2025 01:30:30.153] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=249, y=56, z=-232} Block{productivebees:stone_nest}[facing=south]
+[26Aug2025 01:33:16.092] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Aug2025 01:36:23.573] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
