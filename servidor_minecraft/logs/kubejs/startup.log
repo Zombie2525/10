@@ -1,16 +1,16 @@
-[00:37:46] [INIT] KubeJS 2100.7.0-build.119; MC 2006 NeoForge
-[00:37:46] [INIT] Loaded plugins:
-[00:37:46] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
-[00:37:46] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[00:37:46] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
-[00:37:46] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[00:37:46] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[00:37:46] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[00:37:46] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
-[00:37:47] [INFO] startup_scripts:Mekanism/Compatibility.js#15: Loaded Java class 'mekanism.api.chemical.slurry.Slurry'
-[00:37:47] [INFO] startup_scripts:Mekanism/Compatibility.js#16: Loaded Java class 'mekanism.api.chemical.slurry.SlurryBuilder'
-[00:37:47] [INFO] startup_scripts:Mekanism/Compatibility.js#17: Loaded Java class 'mekanism.api.chemical.gas.Gas'
-[00:37:47] [INFO] startup_scripts:Mekanism/Compatibility.js#18: Loaded Java class 'mekanism.api.chemical.gas.GasBuilder'
-[00:37:47] [INFO] Loaded script startup_scripts:Mekanism/Compatibility.js in 0.165 s
-[00:37:47] [INFO] Loaded script startup_scripts:Applied Energistics/Universal_Press.js in 0.001 s
-[00:37:47] [INFO] Loaded 2/2 KubeJS startup scripts in 0.651 s with 0 errors and 0 warnings
+[01:43:33] [INIT] KubeJS 2100.7.0-build.119; MC 2006 NeoForge
+[01:43:33] [INIT] Loaded plugins:
+[01:43:33] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[01:43:33] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[01:43:33] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[01:43:33] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[01:43:33] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[01:43:33] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[01:43:33] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[01:43:34] [INFO] startup_scripts:Mekanism/Compatibility.js#15: Loaded Java class 'mekanism.api.chemical.slurry.Slurry'
+[01:43:34] [INFO] startup_scripts:Mekanism/Compatibility.js#16: Loaded Java class 'mekanism.api.chemical.slurry.SlurryBuilder'
+[01:43:34] [INFO] startup_scripts:Mekanism/Compatibility.js#17: Loaded Java class 'mekanism.api.chemical.gas.Gas'
+[01:43:34] [INFO] startup_scripts:Mekanism/Compatibility.js#18: Loaded Java class 'mekanism.api.chemical.gas.GasBuilder'
+[01:43:34] [INFO] Loaded script startup_scripts:Mekanism/Compatibility.js in 0.242 s
+[01:43:34] [INFO] Loaded script startup_scripts:Applied Energistics/Universal_Press.js in 0.001 s
+[01:43:34] [INFO] Loaded 2/2 KubeJS startup scripts in 0.73 s with 0 errors and 0 warnings
