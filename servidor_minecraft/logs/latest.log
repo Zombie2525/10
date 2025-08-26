@@ -595,3 +595,8 @@
 [26Aug2025 00:42:53.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs joined the game
 [26Aug2025 00:42:56.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mike_dfs lost connection: Disconnected
 [26Aug2025 00:42:56.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs left the game
+[26Aug2025 01:04:36.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mike_dfs[/127.91.246.34:59479] logged in with entity id 77 at (-9.5, 120.0, 10.5)
+[26Aug2025 01:04:36.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs joined the game
+[26Aug2025 01:04:52.660] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Aug2025 01:05:01.916] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[26Aug2025 01:05:01.916] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
