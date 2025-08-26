@@ -61,12 +61,16 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "willow_forest": "2025-08-26 01:16:40 +0000",
+      "temperate_grove": "2025-08-26 01:16:41 +0000",
       "highland_fields": "2025-08-26 00:39:04 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "willow_forest": "2025-08-26 01:16:40 +0000",
+      "temperate_grove": "2025-08-26 01:16:41 +0000",
       "highland_fields": "2025-08-26 00:39:04 +0000"
     },
     "done": false
@@ -74,6 +78,95 @@
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2025-08-26 00:39:04 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-08-26 01:16:20 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-08-26 01:16:20 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-08-26 01:16:20 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-08-26 01:16:20 +0000",
+      "has_wct": "2025-08-26 01:16:20 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-08-26 01:16:20 +0000",
+      "has_wct": "2025-08-26 01:16:20 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-08-26 01:16:20 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_flower_forest": "2025-08-26 01:15:38 +0000"
+    },
+    "done": false
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-08-26 01:16:20 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-08-26 01:16:20 +0000",
+      "has_wpt": "2025-08-26 01:16:20 +0000",
+      "has_wct": "2025-08-26 01:16:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-26 01:16:20 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-08-26 01:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-08-26 01:16:42 +0000"
+    },
+    "done": false
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-08-26 01:16:20 +0000",
+      "has_wpt": "2025-08-26 01:16:20 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-08-26 01:16:20 +0000"
     },
     "done": true
   },

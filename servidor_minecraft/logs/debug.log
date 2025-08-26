@@ -13676,3 +13676,13 @@ java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.Backpac
 [26Aug2025 01:16:52.133] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=391, y=66, z=48} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
 [26Aug2025 01:16:53.315] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=370, y=69, z=-195} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
 [26Aug2025 01:17:02.769] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=410, y=66, z=-11} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:18:12.591] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.neoforge.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[26Aug2025 01:18:12.592] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[26Aug2025 01:18:12.593] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin from mod relics: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[26Aug2025 01:18:12.608] [Server thread/DEBUG] [mixin/]: Mixing ability.makepiglinsneutral.PiglinAiMixin from mixins.artifacts.common.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[26Aug2025 01:18:12.620] [Server thread/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinPiglinAi from mod curios->@Inject::curios$isWearingGold(Lnet/minecraft/world/entity/LivingEntity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[26Aug2025 01:18:12.620] [Server thread/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinPiglinAi from mod curios->@Inject::curios$isWearingGold(Lnet/minecraft/world/entity/LivingEntity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[26Aug2025 01:18:12.620] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin from mod relics->@Inject::tweakBartering(Lnet/minecraft/world/entity/monster/piglin/Piglin;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[26Aug2025 01:18:16.179] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Aug2025 01:18:16.223] [Server thread/DEBUG] [pneumaticcraft/]: 29 active Amadron offers to sync to clients
+[26Aug2025 01:23:16.097] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
