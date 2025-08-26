@@ -13545,3 +13545,5 @@ java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.Backpac
 [26Aug2025 00:42:56.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mike_dfs lost connection: Disconnected
 [26Aug2025 00:42:56.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs left the game
 [26Aug2025 00:43:16.097] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Aug2025 00:48:16.075] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Aug2025 00:53:16.065] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
