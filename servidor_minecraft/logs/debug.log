@@ -13545,3 +13545,19 @@ java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.Backpac
 [26Aug2025 02:04:01.074] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients
 [26Aug2025 02:04:03.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Mike_dfs
 [26Aug2025 02:09:01.051] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Aug2025 02:14:01.054] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Aug2025 02:14:33.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/659, l='ServerLevel[world]', x=140.59, y=63.00, z=52.70] died, message: 'Librarian was slain by Zombie'
+[26Aug2025 02:14:36.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/633, l='ServerLevel[world]', x=140.58, y=64.00, z=52.91] died, message: 'Weaponsmith was slain by Zombie'
+[26Aug2025 02:14:42.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/631, l='ServerLevel[world]', x=135.95, y=66.00, z=55.61] died, message: 'Leatherworker was slain by Zombie'
+[26Aug2025 02:17:47.116] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=370, y=69, z=-195} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[26Aug2025 02:17:49.245] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=410, y=66, z=-11} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[26Aug2025 02:18:31.128] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=428, y=72, z=15} Block{productivebees:birch_wood_nest}[axis=y,facing=east]
+[26Aug2025 02:18:31.134] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=426, y=73, z=17} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[26Aug2025 02:18:31.165] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=425, y=73, z=44} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[26Aug2025 02:18:32.507] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=249, y=56, z=-232} Block{productivebees:stone_nest}[facing=south]
+[26Aug2025 02:18:43.978] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[26Aug2025 02:18:43.979] [Worker-Main-4/DEBUG] [mixin/]: waystones.mixins.json:JigsawPlacementPlacerMixin from mod waystones: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[26Aug2025 02:18:46.249] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=439, y=69, z=0} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 02:18:52.149] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=86, y=99, z=-334} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[26Aug2025 02:18:54.782] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=317, y=84, z=-346} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[26Aug2025 02:19:01.065] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

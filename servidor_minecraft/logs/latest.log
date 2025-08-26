@@ -593,3 +593,6 @@
 [26Aug2025 01:57:03.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mike_dfs[/127.91.246.34:46195] logged in with entity id 622 at (167.61566988779913, 66.0, 31.49406482589899)
 [26Aug2025 01:57:03.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs joined the game
 [26Aug2025 02:04:03.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Mike_dfs
+[26Aug2025 02:14:33.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/659, l='ServerLevel[world]', x=140.59, y=63.00, z=52.70] died, message: 'Librarian was slain by Zombie'
+[26Aug2025 02:14:36.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/633, l='ServerLevel[world]', x=140.58, y=64.00, z=52.91] died, message: 'Weaponsmith was slain by Zombie'
+[26Aug2025 02:14:42.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/631, l='ServerLevel[world]', x=135.95, y=66.00, z=55.61] died, message: 'Leatherworker was slain by Zombie'
