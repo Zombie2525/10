@@ -600,3 +600,20 @@
 [26Aug2025 01:04:52.660] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [26Aug2025 01:05:01.916] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [26Aug2025 01:05:01.916] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[26Aug2025 01:08:16.606] [Worker-Main-7/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:08:16.606] [Worker-Main-7/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:08:16.607] [Worker-Main-7/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:12:21.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mike_dfs lost connection: Timed out
+[26Aug2025 01:12:21.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs left the game
+[26Aug2025 01:12:21.949] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Aug2025 01:14:52.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mike_dfs[/127.91.246.34:56851] logged in with entity id 1437 at (9.515331860237714, 124.0, 12.083784014718638)
+[26Aug2025 01:14:52.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs joined the game
+[26Aug2025 01:15:27.616] [Worker-Main-7/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:15:32.830] [Worker-Main-10/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:15:32.830] [Worker-Main-10/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:16:30.646] [Worker-Main-10/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:16:30.646] [Worker-Main-10/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:16:30.647] [Worker-Main-10/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:16:48.476] [Worker-Main-11/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/vampirism/totem
+[26Aug2025 01:16:48.749] [Worker-Main-11/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/bounty/plains
+[26Aug2025 01:16:48.780] [Worker-Main-11/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/normal

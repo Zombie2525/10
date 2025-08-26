@@ -13612,3 +13612,67 @@ java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.Backpac
 [26Aug2025 01:05:14.406] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-222, y=74, z=-200} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
 [26Aug2025 01:06:34.763] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
 [26Aug2025 01:06:34.763] [Server thread/DEBUG] [mixin/]: expandability-common.mixins.json:swimming.FallLocationMixin from mod expandability: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[26Aug2025 01:08:16.144] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Aug2025 01:08:16.606] [Worker-Main-7/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:08:16.606] [Worker-Main-7/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:08:16.607] [Worker-Main-7/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:08:16.721] [Worker-Main-8/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=210, y=71, z=187} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:08:16.839] [Worker-Main-9/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=222, y=67, z=-41} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[26Aug2025 01:08:17.210] [Worker-Main-9/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=208, y=64, z=22} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:09:43.222] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-95, y=73, z=-212} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:09:43.410] [Worker-Main-9/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-175, y=76, z=-222} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:12:21.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mike_dfs lost connection: Timed out
+[26Aug2025 01:12:21.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs left the game
+[26Aug2025 01:12:21.949] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Aug2025 01:13:16.074] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Aug2025 01:14:50.414] [Netty Epoll Server IO #1/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@14bae54e into net.minecraft.network.Connection@475c46bc
+[26Aug2025 01:14:52.392] [Netty Epoll Server IO #1/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@71bb6263 into net.minecraft.network.Connection@475c46bc
+[26Aug2025 01:14:52.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mike_dfs[/127.91.246.34:56851] logged in with entity id 1437 at (9.515331860237714, 124.0, 12.083784014718638)
+[26Aug2025 01:14:52.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs joined the game
+[26Aug2025 01:14:52.449] [Server thread/DEBUG] [FTB Teams/]: player 57f15c19-3c07-38df-8b88-e3384993effe logged in, player team = Mike_dfs#57f15c19
+[26Aug2025 01:14:52.449] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[26Aug2025 01:14:52.469] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[26Aug2025 01:14:52.469] [Server thread/DEBUG] [FTB Teams/]: sending team login event for 57f15c19-3c07-38df-8b88-e3384993effe...
+[26Aug2025 01:14:52.483] [Server thread/DEBUG] [FTB Quests/]: Wrote 192544 bytes, 5060 objects
+[26Aug2025 01:14:52.539] [Server thread/DEBUG] [FTB Chunks/]: handling player team login: player = 57f15c19-3c07-38df-8b88-e3384993effe, team = 57f15c19-3c07-38df-8b88-e3384993effe
+[26Aug2025 01:14:52.540] [Server thread/DEBUG] [FTB Chunks/]: server config and team data sent to 57f15c19-3c07-38df-8b88-e3384993effe
+[26Aug2025 01:14:52.540] [Server thread/DEBUG] [FTB Chunks/]: claimed chunk data sent to 57f15c19-3c07-38df-8b88-e3384993effe
+[26Aug2025 01:14:52.540] [Server thread/DEBUG] [FTB Chunks/]: visible player list sent to 57f15c19-3c07-38df-8b88-e3384993effe
+[26Aug2025 01:14:52.540] [Server thread/DEBUG] [FTB Teams/]: team login event for 57f15c19-3c07-38df-8b88-e3384993effe sent
+[26Aug2025 01:14:52.541] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to Mike_dfs (57f15c19-3c07-38df-8b88-e3384993effe)
+[26Aug2025 01:15:27.145] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=236, y=67, z=-31} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:15:27.214] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=237, y=67, z=0} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:15:27.442] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=233, y=66, z=110} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:15:27.616] [Worker-Main-7/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:15:31.867] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=254, y=67, z=-4} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:15:31.867] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=253, y=68, z=-14} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[26Aug2025 01:15:32.171] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=241, y=66, z=146} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[26Aug2025 01:15:32.598] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=242, y=67, z=176} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[26Aug2025 01:15:32.830] [Worker-Main-10/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:15:32.830] [Worker-Main-10/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:15:33.896] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-158, y=88, z=230} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:15:38.787] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-170, y=95, z=240} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:16:30.090] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=268, y=67, z=-27} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[26Aug2025 01:16:30.096] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=256, y=66, z=-6} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:16:30.646] [Worker-Main-10/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:16:30.646] [Worker-Main-10/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:16:30.647] [Worker-Main-10/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[26Aug2025 01:16:30.667] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=262, y=66, z=136} Block{productivebees:sugar_cane_nest}[facing=north]
+[26Aug2025 01:16:38.058] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=273, y=64, z=138} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:16:38.102] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=277, y=64, z=155} Block{productivebees:sugar_cane_nest}[facing=north]
+[26Aug2025 01:16:38.262] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=281, y=65, z=-1} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:16:39.611] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=297, y=66, z=56} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:16:39.611] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=293, y=69, z=53} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:16:39.620] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=289, y=66, z=78} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:16:39.650] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=289, y=69, z=46} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[26Aug2025 01:16:40.955] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=309, y=68, z=30} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:16:42.689] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=323, y=67, z=-60} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:16:44.533] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=366, y=67, z=-54} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[26Aug2025 01:16:44.688] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=363, y=68, z=-9} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:16:48.476] [Worker-Main-11/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/vampirism/totem
+[26Aug2025 01:16:48.749] [Worker-Main-11/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/bounty/plains
+[26Aug2025 01:16:48.780] [Worker-Main-11/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/normal
+[26Aug2025 01:16:49.058] [Server thread/DEBUG] [mixin/]: Mixing CombatRulesMixin from apothic_attributes.mixins.json into net.minecraft.world.damagesource.CombatRules
+[26Aug2025 01:16:52.133] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=391, y=66, z=48} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[26Aug2025 01:16:53.315] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=370, y=69, z=-195} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[26Aug2025 01:17:02.769] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=410, y=66, z=-11} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
