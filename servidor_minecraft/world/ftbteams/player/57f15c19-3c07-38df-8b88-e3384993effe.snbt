@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Mike_dfs"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF59A3"
+		"ftbteams:color": "#595DFF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
