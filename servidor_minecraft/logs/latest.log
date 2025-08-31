@@ -582,3 +582,11 @@
 [31Aug2025 00:25:36.915] [Server thread/WARN] [zerocore/service_loader]: Invalid service definition for it.zerono.mods.zerocore.lib.compat.patchouli.IPatchouliService. Using fallback implementation.
 [31Aug2025 00:25:38.015] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [31Aug2025 00:25:38.031] [Server thread/WARN] [ModernFix/]: Dedicated server took 73.862 seconds to load
+[31Aug2025 00:36:47.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mike_dfs[/127.91.246.34:41335] logged in with entity id 5 at (716.3838891886251, 72.5625, 251.01826795677565)
+[31Aug2025 00:36:47.804] [Server thread/INFO] [cy.jdkdigital.jearchaeology.JEArchaeology/]: table net.minecraft.world.level.storage.loot.LootTable@21c2bfd4
+[31Aug2025 00:36:47.855] [Server thread/INFO] [Modonomicon/]: Building books ...
+[31Aug2025 00:36:47.865] [Server thread/INFO] [Modonomicon/]: Books built.
+[31Aug2025 00:36:47.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs joined the game
+[31Aug2025 00:36:49.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2737ms or 54 ticks behind
+[31Aug2025 00:37:26.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mike_dfs lost connection: Disconnected
+[31Aug2025 00:37:26.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs left the game
