@@ -581,3 +581,9 @@
 [06Sep2025 00:15:10.728] [Server thread/WARN] [zerocore/service_loader]: Invalid service definition for it.zerono.mods.zerocore.lib.compat.patchouli.IPatchouliService. Using fallback implementation.
 [06Sep2025 00:15:11.694] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [06Sep2025 00:15:11.707] [Server thread/WARN] [ModernFix/]: Dedicated server took 50.449 seconds to load
+[06Sep2025 00:29:54.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mike_dfs[/127.77.178.163:37859] logged in with entity id 5 at (715.6903541117531, 72.0, 251.04244290918567)
+[06Sep2025 00:29:55.412] [Server thread/INFO] [cy.jdkdigital.jearchaeology.JEArchaeology/]: table net.minecraft.world.level.storage.loot.LootTable@15f6f840
+[06Sep2025 00:29:55.453] [Server thread/INFO] [Modonomicon/]: Building books ...
+[06Sep2025 00:29:55.458] [Server thread/INFO] [Modonomicon/]: Books built.
+[06Sep2025 00:29:55.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs joined the game
+[06Sep2025 00:29:57.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2791ms or 55 ticks behind
