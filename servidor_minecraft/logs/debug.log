@@ -13552,3 +13552,6 @@ java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.Backpac
 [09Sep2025 23:38:10.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mike_dfs lost connection: Disconnected
 [09Sep2025 23:38:10.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs left the game
 [09Sep2025 23:43:07.125] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Sep2025 23:48:07.360] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Sep2025 23:48:07.365] [Server thread/DEBUG] [pneumaticcraft/]: 28 active Amadron offers to sync to clients
+[09Sep2025 23:53:07.113] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
