@@ -245,6 +245,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "redstone_caves": "2025-09-06 00:32:59 +0000",
       "grassland": "2025-08-30 22:43:21 +0000"
     },
     "done": false
@@ -260,6 +261,12 @@
       "criteria_0": "2025-08-31 00:47:13 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-09-06 00:32:59 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3953
 }
