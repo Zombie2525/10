@@ -586,3 +586,5 @@
 [09Sep2025 23:35:35.694] [Server thread/INFO] [Modonomicon/]: Books built.
 [09Sep2025 23:35:35.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs joined the game
 [09Sep2025 23:35:38.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3641ms or 72 ticks behind
+[09Sep2025 23:38:10.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mike_dfs lost connection: Disconnected
+[09Sep2025 23:38:10.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs left the game

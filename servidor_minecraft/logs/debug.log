@@ -13523,3 +13523,32 @@ java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.Backpac
 [09Sep2025 23:37:04.057] [Worker-Main-6/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
 [09Sep2025 23:37:10.391] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1040, y=73, z=-53} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
 [09Sep2025 23:37:11.792] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=885, y=68, z=-74} Block{productivebees:bumble_bee_nest}[facing=north]
+[09Sep2025 23:37:15.682] [Worker-Main-5/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[09Sep2025 23:37:15.682] [Worker-Main-5/DEBUG] [mixin/]: waystones.mixins.json:JigsawPlacementPlacerMixin from mod waystones: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[09Sep2025 23:37:17.644] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1056, y=74, z=211} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:18.063] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1066, y=72, z=0} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:18.083] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1058, y=71, z=22} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:18.100] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1068, y=69, z=37} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:18.964] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1058, y=67, z=259} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:19.584] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1068, y=75, z=-11} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[09Sep2025 23:37:20.160] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1059, y=75, z=-79} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:38.584] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1072, y=69, z=245} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:39.041] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1073, y=78, z=230} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:39.284] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1075, y=97, z=397} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[09Sep2025 23:37:39.349] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1076, y=95, z=405} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:39.361] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1084, y=87, z=428} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[09Sep2025 23:37:39.965] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1073, y=73, z=-38} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[09Sep2025 23:37:39.965] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1072, y=73, z=-43} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[09Sep2025 23:37:41.433] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1089, y=76, z=6} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[09Sep2025 23:37:41.983] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1089, y=99, z=357} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:42.488] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1091, y=72, z=227} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:46.433] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1104, y=77, z=26} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[09Sep2025 23:37:46.440] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1106, y=74, z=36} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[09Sep2025 23:37:47.223] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1109, y=71, z=221} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[09Sep2025 23:37:47.302] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1106, y=68, z=248} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:47.464] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1105, y=101, z=352} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[09Sep2025 23:37:48.056] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1104, y=81, z=-53} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[09Sep2025 23:38:07.209] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Sep2025 23:38:10.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mike_dfs lost connection: Disconnected
+[09Sep2025 23:38:10.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mike_dfs left the game
+[09Sep2025 23:43:07.125] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
